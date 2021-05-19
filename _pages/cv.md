@@ -13,6 +13,7 @@ Education
 ======
 * M.S. in Physics, Wroclaw University, Institute of Theoretical Physics, 2000
   * _Fusion rules in minimal models in 2-dimensional conformal field theory_ (advisor: prof. Zbigniew Jaskólski)
+  * 1998-1999: Socrates scholarship, Rijksuniversiteit Groningen (Holland)
 * Ph.D in Physics, Wroclaw University, Institute of Theoretical Physics, 2005
   * _Rozpraszanie neutrin na jadrach i nukleonach_ (advisor: prof. J.T. Sobczyk)
 * Habilitation in Physics, _Lepton-nucleon scattering in elastic and resonance region_
@@ -22,6 +23,8 @@ Work experience
 * From 2016: University Professor
     * Neutrino Physics Division
 * From 2020: Vice-Dean (prodziekan) for Student Affairs and Infrastructure, Faculty of Physics and Astronomy, Wroclaw University 
+
+* 2008-2009: Post-Doc at Dipartimento di Fisica Teoria, Universita degli Studi di Torino, Italy.
 
 * From 2005 till 2016: Adjunct
   * Wroclaw University, Institute of Theoretical Physics
