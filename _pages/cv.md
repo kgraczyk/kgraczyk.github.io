@@ -11,22 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Physics, Wroclaw University, Institute of Theoretical Physics, 2000
+  * _Fusion rules in minimal models in 2-dimensional conformal field theory_ (advisor: prof. Zbigniew Jaskólski)
+* Ph.D in Physics, Wroclaw University, Institute of Theoretical Physics, 2005
+  * _Rozpraszanie neutrin na jadrach i nukleonach_ (advisor: prof. J.T. Sobczyk)
+* Habilitation in Physics, _Lepton-nucleon scattering in elastic and resonance region_
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From 2016: University Professor
+    * Neutrino Physics Division
+* From 2020: Vice-Dean (prodziekan) for Student Affairs and Infrastructure, Faculty of Physics and Astronomy, Wroclaw University 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* From 2005 till 2016: Adjunct
+  * Wroclaw University, Institute of Theoretical Physics
+  * Neutrino Physics Division
+
+* 2016 - 2020: Deputy Director (Administration and IT) at Institute of Theoretical Physics, Wroclaw University
+
+__Awards__
+
+* 2004: <a href="http://www.mborn-scholar.wroc.pl/index.php?nazwa=laureaci04">Max Born fellowship</a>
+* 2010: Minister of Science and Higher Education (MNiSW) three years stipend for outstanding young scientists >>>
+* 2016: University of Wroclaw Rector's award for research achievements in 2015
+* 2017: University of Wroclaw Rector's award for organizational achievements in 2016
+* 2018: University of Wroclaw Rector's award for organizational achievements in 2017
+* 2019: University of Wroclaw Rector's award for organizational achievements in 2018
+* 2020: University of Wroclaw Rector's award for organizational achievements in 2019
+
+
+__Scientific Scores__
+======
+* H-factor: 15 (Web-of-Science), 
+* Number of Citations: 1038
+* Number of papers: 49. 
+
 Skills
 ======
 * Skill 1
@@ -54,6 +73,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
