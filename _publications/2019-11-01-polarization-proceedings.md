@@ -1,5 +1,5 @@
 ---
-title: "Spin asymmetry in single pion production induced by weak interactions of neutrinos with polarized nucleons"
+title: "Polarization Effects in Neutrino-Nucleon Interactions"
 collection: publications
 permalink: /publication/2019-03-11-polarization-proceedings
 excerpt: 'Our recent investigations of the spin asymmetry observables in the charged current inelastic and quasielastic neutrino (antineutrino)–nucleon scattering are reviewed. The spin asymmetry observables contain full information about the structure of the electroweak neutrino–nucleon vertex. Hence, they can be used to constrain the cross-section models for the single-pion production in ν-nucleon scattering and they allow to study the axial content of the nucleon and the second class current contribution to the quasielastic scattering amplitudes.'
