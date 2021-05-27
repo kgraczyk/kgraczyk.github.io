@@ -8,7 +8,6 @@ venue: 'Physical Review C'
 paperurl: 'https://doi.org/10.1103/PhysRevC.90.054334'
 citation: 'K. M. Graczyk, C. Juszczak, Phys.Rev.C 90, 054334, 045205 (2014)'
 ---
-#__Abstract:__ 
 
 [Download paper here](https://journals.aps.org/prc/pdf/10.1103/PhysRevC.90.054334)
 
