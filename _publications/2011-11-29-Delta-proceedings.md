@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2011-11-29-Delta-proceedings
 excerpt: 'A short review of the Rein-Sehgal and isobar models is presented. The attention is focused on the nucleon-(1232) weak transition form-factors. The results of the recent re-analyses of the ANL and BNL bubble chamber neutrino-deuteron scattering data are discussed.'
 date: 2011-11-29
-venue: 'Proceedings, 7th International Workshop on Neutrino-nucleus interactions in the few GeV region (NUINT 11) : Dehradun, India, March 7-11, 2011'
+venue: 'Proceedings, 7th International Workshop on Neutrino-nucleus interactions in the few GeV region (NUINT 11) : Dehradun, India, March 7-11'
 paperurl: 'https://doi.org/10.1063/1.3661573'
 citation: 'Krzysztof M. Graczyk, AIP Conf.Proc. 1405, 1, 134, (2011)'
 ---
