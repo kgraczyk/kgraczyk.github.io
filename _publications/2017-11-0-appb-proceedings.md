@@ -1,7 +1,7 @@
 ---
 title: "Single Pion Production Induced by ν-nucleon Interactions"
 collection: publications
-permalink: /publication/2017-11-0-spp-proceedings
+permalink: /publication/2017-11-0-apbb-proceedings
 excerpt: 'This article presents a short review of the single pion production (SPP) in the neutrino–nucleon scattering. The attention is focused on the discussion of the main difficulties in modeling the SPP processes. New physical observables, which may constrain the theoretical models, are proposed.'
 date: 2017-11-01
 venue: 'Acta Physica Polonica B, Part of Proceedings, 41st International Conference of Theoretical Physics: Matter to the Deepest : Kroczyce, Poland, September 4-8, 2017'
