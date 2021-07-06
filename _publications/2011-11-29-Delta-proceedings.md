@@ -1,5 +1,5 @@
 ---
-title: "NuWro Monte Carlo generator of neutrino interactions - first electron scattering results"
+title: "N-delta weak transition"
 collection: publications
 permalink: /publication/2011-11-29-Delta-proceedings
 excerpt: 'A short review of the Rein-Sehgal and isobar models is presented. The attention is focused on the nucleon-(1232) weak transition form-factors. The results of the recent re-analyses of the ANL and BNL bubble chamber neutrino-deuteron scattering data are discussed.'
