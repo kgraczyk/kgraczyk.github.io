@@ -1,7 +1,7 @@
 ---
 title: "Quark-hadron duality in lepton scattering off nucleons"
 collection: publications
-permalink: /publication/2010-04-22-aip-proceedings-10
+permalink: /publication/2010-04-22-aip-proceedings-9
 excerpt: 'Quark‐hadron (QH) duality in lepton scattering off nucleons is studied with the resonance quark model. It is shown that in the case of neutrino scattering off an isoscalar target the duality is simultaneously observed for charged and neutral currents xFνN1, FνN2, and xFνN3
 weak structure functions. We demonstrate that the QH duality can be a useful property for modeling structure functions in the so‐called resonance region. As an example it is shown that combining relativistic quark model predictions with duality arguments allows a construction of the inclusive resonance Fep2
 structure function.'
