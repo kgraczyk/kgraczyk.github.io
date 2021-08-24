@@ -8,7 +8,7 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2108.10304.pdf'
 citation: 'Remigiusz Durka, Krzysztof M. Graczyk, arXiv:2108.10304'
 ---
-#__Abstract:__ Using a newly developed highly efficient computational method of generating 'resonating' algebraic structures, we achieve the supersymmetric extensions of algebras going beyond the Poincaré and Anti-de Sitter ones. Considered class of algebras include additional bosonic generators Zab (Lorentz-like) and Ua (translational-like) added to the standard Lorentz generator Jab and translation generator Pa. Our analysis includes cases up to two fermionic charges, Qα and Yα. We reevaluated previously published results and obtained completely new algebras up to two of Lorentz-like, translation-like, and supercharge-like generators (JP+Q)+(ZU+Y)=JPZU+QY. In the last case, among 667 founded superalgebras 264 are suitable for supergravity construction. 
+#__Abstract:__  Using a newly developed highly efficient computational method of generating 'resonating' algebraic structures, we achieve the supersymmetric extensions of algebras going beyond the Poincaré and Anti-de Sitter ones. Considered class of algebras include additional bosonic generators Zab (Lorentz-like) and Ua (translational-like) added to the standard Lorentz generator Jab and translation generator Pa. Our analysis includes cases up to two fermionic charges, Qα and Yα. We reevaluated previously published results and obtained completely new algebras up to two of Lorentz-like, translation-like, and supercharge-like generators (JP+Q)+(ZU+Y)=JPZU+QY. In the last case, among 667 founded superalgebras 264 are suitable for supergravity construction.
 
 [Download paper here](https://arxiv.org/pdf/2108.10304)
 
