@@ -1,7 +1,7 @@
 ---
 title: "Tau polarization in charge current neutrino-nucleon Deep Inelastic Scattering"
 collection: publications
-permalink: /publication/2005-02-01-npb-proc-supp
+permalink: /publication/2005-02-01-npb-proc-supp-1
 excerpt: 'Numerical results for the degree of polarization of tau- produced in (CC) neutrino-nucleon Deep Inelastic Scattering (DIS) are presented. Calculations are done in the threshold region, where the tau- scattered by the small angles and can be partially polarized. The cross sections and polarization are calculated by using the GRV98 parton distributions functions (PDFs) and the GRV98 with modifications of A. Bodek at.al. Nucl. Phys. B Proc.(Suppl) 112 (2002) 70.'
 date: 2005-02-01
 venue: 'Nuclear Physics B - Proceedings Supplements, Part of Proceedings, 3rd International Workshop on Neutrino-nucleus interactions in the few GeV region (NUINT 04) : Assergi, Italy, March 17-21, 2004'
