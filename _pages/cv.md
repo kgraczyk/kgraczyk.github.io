@@ -47,16 +47,16 @@ __Scientific Scores__
 ======
 * H-factor: 15 (Web-of-Science), 
 * Number of Citations: 1038
-* Number of papers: 49. 
+* Number of papers: 50. 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Numerical Computations
+* Programming
+  * C++, Python
+  * Wolfram Mathematica, Reduce, Form
+  * PyTorch, TensorFlow
+* Data Analysis
 
 Publications
 ======
