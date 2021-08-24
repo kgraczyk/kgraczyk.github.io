@@ -13,4 +13,3 @@ citation: 'Remigiusz Durka, Krzysztof M. Graczyk, arXiv:2108.10304'
 [Download paper here](https://arxiv.org/pdf/2108.10304)
 
 Recommended citation: Remigiusz Durka, Krzysztof M. Graczyk, <i>arXiv:2108.10304</i>.
-
