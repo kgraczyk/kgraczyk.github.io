@@ -1,7 +1,7 @@
 ---
 title: "Polarization Effects in Neutrino-Nucleon Interactions"
 collection: publications
-permalink: /publication/2019-03-11-polarization-proceedings-14
+permalink: /publication/2019-03-11-polarization-proceedings-16
 excerpt: 'Our recent investigations of the spin asymmetry observables in the charged current inelastic and quasielastic neutrino (antineutrino)–nucleon scattering are reviewed. The spin asymmetry observables contain full information about the structure of the electroweak neutrino–nucleon vertex. Hence, they can be used to constrain the cross-section models for the single-pion production in ν-nucleon scattering and they allow to study the axial content of the nucleon and the second class current contribution to the quasielastic scattering amplitudes.'
 date: 2019-11-01
 venue: 'Acta Physica Polonica B, Part of Proceedings, 43rd International Conference of Theoretical Physics: Matter to the Deepest, Recent Developments In Physics Of Fundamental Interactions (MTTD2019) : Chorzów/Katowice, Katowice, Poland, September 1-6, 2019, 1771-1780'
