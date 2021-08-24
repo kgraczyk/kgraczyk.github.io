@@ -8,7 +8,7 @@ venue: 'Proceedings, Europhysics Conference on High energy physics (EPS-HEP 2009
 paperurl: 'https://doi.org/10.22323/1.084.0286'
 citation: 'K. Graczyk, <i> PoS EPS-HEP2009, 286 (2009)</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
 
 [Download paper here](https://pos.sissa.it/084/286/pdf)
 
