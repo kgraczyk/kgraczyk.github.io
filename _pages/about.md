@@ -13,20 +13,17 @@ Shortly
 ======
 * I work at the [Institute of Theoretical Physics](https://www.ift.uni.wroc.pl), [Wroclaw University](www.uni.wroc.pl). 
 
-* I am interested in particle, nuclear and computational physics. I am also an enthusiast of new computationals technologies such as Deep Learning and Quantum Computing.
+* I am interested in particle, nuclear and computational physics. I am also an enthusiast of new computationals technologies such as Deep Learning.
 
 * I am an author of publications in the following arxiv categories: hep-ph, hep-th, hep-exp, nucl-th, nucl-ex, physics.comp-ph, cond-mat.dis-nn, physics.flu-dyn, stat.ML
 
 
-Topics of my research activity
+Current Projects I am involved
 ======
-  * neutrino-nucleon/nuclei interactions
-  * electromagnetic and weak structure of nucleon
-  * machine learning in particle and nuclear physics
-  * Bayesian statistics
-  * symbolic programming
-  * deep learning in fluid dynamics
-  * Machine Learning in MC simulations of neutrino interactions
+  * Bayesian Neural Networks for Partial Differential Equations
+  * Deep Learning for Physics of Fluids
+  * Deep Learning for NuWro Monte Carlo Generator
+  * Algebraic Structures for SuperGravity
 
 
 Available Ph.D. or MSc. topics
@@ -35,9 +32,6 @@ A) Deep learning in Physics
 The project concerns studies and applications of deep learning methods in physics. Three directions of research are distinguished:
   * Deep learning systems studied within quantum field theory tools;
   * Deep learning methods in Monte Carlo simulations of neutrino-nuclei;
-  * Deep learning methods in quantum mechanics;
+  * Deep learning for differential physics
 
-B)  Physics of Neutrino-Nucleon Interactions. The project concerns two aspects:
-  * Model dependence in neutrino-nucleus and nuclei scattering. 
-  * Single Pion Production in Neutrino-Nucleon Scattering
 
