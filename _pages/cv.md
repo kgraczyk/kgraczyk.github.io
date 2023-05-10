@@ -16,7 +16,7 @@ Education
   * 1998-1999: Socrates scholarship, Rijksuniversiteit Groningen (Holland)
 * Ph.D in Physics, Wroclaw University, Institute of Theoretical Physics, 2005
   * _Rozpraszanie neutrin na jadrach i nukleonach_ (advisor: prof. J.T. Sobczyk)
-* Habilitation in Physics, _Lepton-nucleon scattering in elastic and resonance region_
+* Habilitation in Physics, _Lepton-nucleon scattering in elastic and resonance region_, 2016
 
 Work experience
 ======
@@ -41,13 +41,14 @@ __Awards__
 * 2018: University of Wroclaw Rector's award for organizational achievements in 2017
 * 2019: University of Wroclaw Rector's award for organizational achievements in 2018
 * 2020: University of Wroclaw Rector's award for organizational achievements in 2019
+* 2022: University of Wroclaw Rector's award for organizational and scientific achievements in 2021
 
 
 __Scientific Scores__
 ======
-* H-factor: 15 (Web-of-Science), 
-* Number of Citations: 1038
-* Number of papers: 50. 
+* H-factor: 19 (Web-of-Science), 
+* Number of Citations: 1233
+* Number of papers: 53. 
 
 Skills
 ======
@@ -56,7 +57,6 @@ Skills
   * C++, Python
   * Wolfram Mathematica, Reduce, Form
   * PyTorch, TensorFlow
-* Data Analysis
 
 Publications
 ======
