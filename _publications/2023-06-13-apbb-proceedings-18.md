@@ -8,7 +8,7 @@ algebraic structures results in a broad class of the new Lie (super)algebras. Th
 Obtained superalgebras are rooted in the Semigroup expansion method and Maxwell and Soroka–Soroka algebras, 
 spanned by the Lorentz generator Jab, translations Pa, and additional Lorentz-like generator Zab. Considered configurations 
 include cases up to two fermionic supercharges Qα​ and offer interesting modifications to the gauge (super)gravity theories.'
-date: 2017-06-13
+date: 2023-06-13
 venue: 'Acta Physica Polonica B, Proceedings, Contribution to the proceedings of The 8th Conference of the Polish Society on Relativity 2022, Warsaw (Poland)'
 paperurl: 'https://www.actaphys.uj.edu.pl/fulltext?series=Sup&vol=16&aid=6-A11'
 citation: 'R. Durka, K. M. Graczyk, Acta Phys.Polon.Supp. 16 (2023) 6, 11'
