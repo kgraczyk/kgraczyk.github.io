@@ -1,6 +1,6 @@
 ---
 permalink: /laip/
-title: "LAIP"
+title: "Laboratory of AI for Physics (LAIP)"
 author_profile: true
 redirect_from: 
   - /md/
