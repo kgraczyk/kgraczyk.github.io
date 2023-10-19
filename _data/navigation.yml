@@ -18,6 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
-#  - title: "LAIP Guide"
+#  - title: "Guide"
+#    url: /markdown/
+
    - title: "LAIP"
-    url: /markdown/
+    url: /laip/
