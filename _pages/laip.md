@@ -7,9 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
-_Group of physicists keen on appliaction and development of AI methdos for theoretical, computational and experimental physics_
+_Group of physicists keen on applications and development of AI methods for theoretical, computational, and experimental physics_
 
-_We work on applications in physics of fluids, nuclear and particle physics and other related areas._
+* _We work on applications of AI techniques in the physics of fluids, nuclear and particle physics, and supergravity._
+* In particular, we focus on the development of:
+    * Deep learning models for studies of porous media
+    * Machine learning models for Monte Carlo simulations of neutrino-nucleus scattering
+    * Bayesian methods for the analysis of eletron and neutrino scattering data
+    * Hopfield model
+    * PINN-like approach
 
 ======
 
