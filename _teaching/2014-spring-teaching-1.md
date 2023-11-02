@@ -8,6 +8,8 @@ date: 2014-03-01
 location: "Wroclaw, poland"
 ---
 
+Elements of lepton-nucleon electromagnetic interactions
+
 * Elementary introduction to basics of QFT: S-matrix, cross-section formula
 * QED: gauge symmetry, Feynman rules
 * Electron scattering off Coulomb potential: charge distribution of the proton, proton radius
