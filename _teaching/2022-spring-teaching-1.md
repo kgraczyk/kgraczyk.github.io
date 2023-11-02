@@ -36,8 +36,15 @@ Short introduction to Physics Informed Neural Networks (PINN)
 
 # Lecture 4
 
-* Differential equations
-  * Ordinary differential equations (ODE)
+* Ordinary differential equations (ODE)
+  * General Solvability Theory
+  * Stability of the initial value problem
+* Numerical approch to ODE
+  * Forward Euler Method
+  * Backward Euler Method
+  * Higher order ODE
+  * System of the first order ODE
+  * Solving ODE with Neural Networks by Lagaris et al.
 
 # Lecture 5
 
