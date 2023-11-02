@@ -1,5 +1,5 @@
 ---
-title: "Machine learning (Specialized Lecture)"
+title: "Specialized Lecture - Applications of deep learning in physics"
 collection: teaching
 type: "Undergraduate and graduate course"
 permalink: /teaching/2022-spring-teaching-1
