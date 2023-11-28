@@ -23,7 +23,7 @@ Seminar: almost every Thursday, 10:00, room 416
 
 
 * 30.11.2023:
-  * title: __Hopfield model - neural network based associative memory__, speaker: Bartłomiej Domański
+  * title: __Hopfield model - neural network based associative memory__, speaker: B. Domański
 
 * 09.11.2023:
   * title: __AI Feynman: A Physics-Inspired Method for Symbolic Regression__, speaker: R. Durka
