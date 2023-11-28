@@ -22,8 +22,8 @@ _Group of physicists keen on applications and development of AI methods for theo
 Seminar: almost every Thursday, 10:00, room 416
 
 
-* 23.11.2023:
-  * title: __TBA__, speaker: tba
+* 30.11.2023:
+  * title: __Hopfield model - neural network based associative memory__, speaker: Bartłomiej Domański
 
 * 09.11.2023:
   * title: __AI Feynman: A Physics-Inspired Method for Symbolic Regression__, speaker: R. Durka
