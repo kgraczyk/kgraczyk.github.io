@@ -52,10 +52,10 @@ _Bayesian neural networks were adapted to analyze:_
 - _quasielastic neutrino-deuteron scattering data_
 
 _The Bayesian framework allowed us to:_
-  -_Extract two-photon exchange correction_
-  -_Obtain model-independent electromagnetic form factors of the nucleon_
-  -_Estimate the proton radius_
-  -_Nucleon axial form factor_
+-_Extract two-photon exchange correction_
+-_Obtain model-independent electromagnetic form factors of the nucleon_
+-_Estimate the proton radius_
+-_Nucleon axial form factor_
 
 _To conduct the project, the C++ library for Bayesian Neural Networks was developed (together with Cezary Juszczak)_
 
