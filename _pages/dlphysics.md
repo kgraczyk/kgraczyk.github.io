@@ -13,7 +13,7 @@ _The project's goal is to optimize the NuWro Monte Carlo generator utilizing dee
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Hemant Prasad, Jan T. Sobczyk,
   [arxiv:2312.xxxxx](https://arxiv.org/abs/2312.xxxxx)
-  - The fits are available at [repository](https://github.com/bekowal/CarbonElectronNeuralNetwork) 
+  - The fits are available at [repository](https://github.com/xxx) 
   
 
 ## Physics Informed Neural Networks (PINNs)
@@ -38,4 +38,11 @@ _The goal of the project is to develop the deep learning tools with abilities to
 
 ## Bayesian neural networks for nuclean electrowak structure studies
 ---
+
+* Krzysztof M. Graczyk, _Two-photon exchange effect studied with neural networks_,
+  [Phys. Rev. C84, 034314 (2011)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.84.034314)
+
+* Krzysztof M. Graczyk, Piotr Płoński, Robert Sulej, _Neural Network Parameterizations of Electromagnetic Nucleon Form Factors,_
+  [JHEP (2010) 053](https://link.springer.com/article/10.1007/JHEP09(2010)053)
+  
  
