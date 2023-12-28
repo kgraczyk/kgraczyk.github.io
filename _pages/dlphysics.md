@@ -38,7 +38,7 @@ _The goal of the project is to develop the deep learning tools with abilities to
 
 ## Uncertainties in Deep Learning Systems Counting Microbiological Objects
 
-_The project aimed to develop the methods to estimate the uncertainties in density map model predictions rooted in $U^2$-Net._
+_The project aimed to develop the methods to estimate the uncertainties in density map model (given by $U^2$-Net) predictions._
 
 The project supported by MOZART Grant [WCA](https://wca.wroc.pl/dr-hab-krzysztof-graczyk-neurosys-sp-z-oo-opracowanie-metod-oceny-niepewnosci-w-klasyfikacji-probek-mikrobiologicznych), conducted in [NeuroSys](https://neurosys.com)
 
