@@ -27,8 +27,7 @@ _The goal of the project is to propose Bayesian framework for PINNs_
 
 ## Deep learning for porous media
 ---
-_The goal of the project is to develop the deep learning tools with abilities to predict the macroscopic and microscopic properties 
-of the fluid flow and diffusion phenomena in porous materials_
+_The goal of the project is to develop the deep learning tools with abilities to predict the macroscopic and microscopic properties of the fluid flow and diffusion phenomena in porous materials_
 
 * Krzysztof M. Graczyk, Dawid Strzelczyk and Maciej Matyka,
   _Deep learning for diffusion in porous media_,
