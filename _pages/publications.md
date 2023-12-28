@@ -8,7 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{[https://scholar.google.com/citations?user=7rV5lp4AAAAJ&hl=pl&oi=ao]}}">my Google Scholar profile</a>.</u>
 {% endif %}
-# [author.googlescholar]
+# [krzysztof.graczyk.googlescholar](https://scholar.google.com/citations?user=7rV5lp4AAAAJ&hl=pl&oi=sra)
 {% include base_path %}
 
 {% for post in site.publications reversed %}
