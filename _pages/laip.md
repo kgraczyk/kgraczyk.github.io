@@ -16,7 +16,7 @@ _Group of physicists keen on applications and development of AI methods for theo
     * Bayesian methods for the analysis of eletron and neutrino scattering data
     * Hopfield model
     * PINN-like approach
-* [The list of papers obtained within the initiative](/_pages/dlphysics/)
+* [The list of papers obtained within the initiative](https://kgraczyk.github.io/dlphysics/)
 
 ======
 
