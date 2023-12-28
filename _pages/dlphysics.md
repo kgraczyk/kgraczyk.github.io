@@ -57,6 +57,8 @@ _The Bayesian framework allowed us to:_
   -_Estimate the proton radius_
   -_Nucleon axial form factor_
 
+_To conduct the project, the C++ library for Bayesian Neural Networks was developed (together with Cezary Juszczak)_
+
 * Luis Alvarez-Ruso, Krzysztof M. Graczyk, Eduardo Saul-Sala, _Nucleon axial form factor from a Bayesian neural-network analysis of neutrino-scattering data_, [Phys. Rev. C99, 025204 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.025204)
 
 * Krzysztof M. Graczyk and Cezary Juszczak, _Zemach moments of proton from Bayesian inference_, [Phys. Rev. C91, 045205 (2015)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.91.045205)
