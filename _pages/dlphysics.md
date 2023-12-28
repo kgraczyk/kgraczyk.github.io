@@ -39,6 +39,14 @@ _The goal of the project is to develop the deep learning tools with abilities to
 ## Bayesian neural networks for nuclean electrowak structure studies
 ---
 
+* Krzysztof M. Graczyk and Cezary Juszczak,_Proton Radius from Bayesian Inference_,
+ [Phys. Rev. C90, 054334 (2014)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.054334)
+
+* Krzysztof M. Graczyk, _Comparison of Neural Network and Hadronic Model Predictions of Two-Photon Exchange Effect_,
+ [Phys. Rev. C88, 065205 (2013)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.065205)
+
+* Krzysztof M. Graczyk, _Comparison of Neural Network and Hadronic Model Predictions of Two-Photon Exchange Effect,_ [Phys. Rev. C88, 065205 (2013)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.065205)
+
 * Krzysztof M. Graczyk, _Two-photon exchange effect studied with neural networks_,
   [Phys. Rev. C84, 034314 (2011)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.84.034314)
 
