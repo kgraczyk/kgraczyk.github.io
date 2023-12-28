@@ -13,6 +13,8 @@ _The project's goal is to optimize the NuWro Monte Carlo generator utilizing dee
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Hemant Prasad, Jan T. Sobczyk,
   [arxiv:2312.xxxxx](https://arxiv.org/abs/2312.xxxxx)
+  - The fits are available at [repository](https://github.com/bekowal/CarbonElectronNeuralNetwork) 
+  
 
 ## Physics Informed Neural Networks (PINNs)
 ---
@@ -21,10 +23,12 @@ _The goal of the project is to propose Bayesian framework for PINNs_
 * Krzysztof M. Graczyk, Kornel Witkowski,
   _Bayesian Reasoning for Physics Informed Neural Networks_
   [arxiv:2312.13222](https://arxiv.org/abs/2308.13222)
-  see also [>>>>](https://kgraczyk.github.io/publication/2023-08-25-PINN-29)
+  - see also [>>>>](https://kgraczyk.github.io/publication/2023-08-25-PINN-29)
 
 ## Deep learning for porous media
 ---
+_The goal of the project is to develop the deep learning tools with abilities to predict the macroscopic and microscopic properties 
+of the fluid flow and diffusion phenomena in porous materials_
 
 * Krzysztof M. Graczyk, Dawid Strzelczyk and Maciej Matyka,
   _Deep learning for diffusion in porous media_,
