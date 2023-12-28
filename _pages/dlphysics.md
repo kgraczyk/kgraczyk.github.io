@@ -36,6 +36,14 @@ _The goal of the project is to develop the deep learning tools with abilities to
   _Predicting Porosity, Permeability, and Tortuosity of Porous Media from Images by Deep Learning_,
   [Sci Rep 10, 21488 (2020)](https://doi.org/10.1038/s41598-020-78415-x)
 
+## Uncertainties in Deep Learning Systems Counting Microbiological Objects
+
+_The project aimed to develop the methods to estimate the uncertainties in density map model predictions rooted in $U^2$-Net._
+
+The project supported by MOZART Grant [WCA](https://wca.wroc.pl/dr-hab-krzysztof-graczyk-neurosys-sp-z-oo-opracowanie-metod-oceny-niepewnosci-w-klasyfikacji-probek-mikrobiologicznych), conducted in [NeuroSys](https://neurosys.com)
+
+* Krzysztof M. Graczyk, Jarosław Pawlowski, Sylwia Majchrowska, Tomasz Golan, _Self-Normalized Density Map (SNDM) for Counting Microbiological Obejcts_, [Sci Rep 12, 10583 (2022)](https://www.nature.com/articles/s41598-022-14879-3)
+
 ## Bayesian neural networks for nuclean electrowak structure studies
 ---
 
