@@ -39,6 +39,8 @@ _The goal of the project is to develop the deep learning tools with abilities to
 ## Bayesian neural networks for nuclean electrowak structure studies
 ---
 
+* Krzysztof M. Graczyk and Cezary Juszczak, _Applications of Neural Networks in Hadron Physics_, [J.Phys. G42 (2015) 3, 034019](http://iopscience.iop.org/0954-3899/42/3/034019/) 
+
 * Krzysztof M. Graczyk and Cezary Juszczak,_Proton Radius from Bayesian Inference_,
  [Phys. Rev. C90, 054334 (2014)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.054334)
 
