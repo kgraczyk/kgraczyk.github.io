@@ -21,7 +21,7 @@ _The goal of the project is to propose Bayesian framework for PINNs_
 * Krzysztof M. Graczyk, Kornel Witkowski, _Bayesian Reasoning for Physics Informed Neural Networks_
   [arxiv:2312.13222](https://arxiv.org/abs/2308.13222)
 
-## Deep Learning for porous media
+## Deep learning for porous media
 ---
 
 * Krzysztof M. Graczyk, Dawid Strzelczyk and Maciej Matyka, _Deep learning for diffusion in porous media_,
