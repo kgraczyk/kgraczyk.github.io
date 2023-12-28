@@ -47,6 +47,16 @@ The project supported by MOZART Grant [WCA](https://wca.wroc.pl/dr-hab-krzysztof
 ## Bayesian neural networks for nuclean electrowak structure studies
 ---
 
+_Bayesian neural networks were adapted to analyze:_
+- _elastic electron-proton and electron-neutron scattering data_
+- _quasielastic neutrino-deuteron scattering data_
+
+_The Bayesian framework allowed us to:_
+  -_Extract two-photon exchange correction_
+  -_Obtain model-independent electromagnetic form factors of the nucleon_
+  -_Estimate the proton radius_
+  -_Nucleon axial form factor_
+
 * Luis Alvarez-Ruso, Krzysztof M. Graczyk, Eduardo Saul-Sala, _Nucleon axial form factor from a Bayesian neural-network analysis of neutrino-scattering data_, [Phys. Rev. C99, 025204 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.025204)
 
 * Krzysztof M. Graczyk and Cezary Juszczak, _Zemach moments of proton from Bayesian inference_, [Phys. Rev. C91, 045205 (2015)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.91.045205)
