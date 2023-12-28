@@ -39,15 +39,17 @@ _The goal of the project is to develop the deep learning tools with abilities to
 ## Bayesian neural networks for nuclean electrowak structure studies
 ---
 
+* Luis Alvarez-Ruso, Krzysztof M. Graczyk, Eduardo Saul-Sala, _Nucleon axial form factor from a Bayesian neural-network analysis of neutrino-scattering data_, [Phys. Rev. C99, 025204 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.025204)
+
+* Krzysztof M. Graczyk and Cezary Juszczak, _Zemach moments of proton from Bayesian inference_, [Phys. Rev. C91, 045205 (2015)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.91.045205)
+
 * Krzysztof M. Graczyk and Cezary Juszczak, _Applications of Neural Networks in Hadron Physics_, [J.Phys. G42 (2015) 3, 034019](http://iopscience.iop.org/0954-3899/42/3/034019/) 
 
-* Krzysztof M. Graczyk and Cezary Juszczak,_Proton Radius from Bayesian Inference_,
+* Krzysztof M. Graczyk and Cezary Juszczak, _Proton Radius from Bayesian Inference_,
  [Phys. Rev. C90, 054334 (2014)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.054334)
 
 * Krzysztof M. Graczyk, _Comparison of Neural Network and Hadronic Model Predictions of Two-Photon Exchange Effect_,
  [Phys. Rev. C88, 065205 (2013)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.065205)
-
-* Krzysztof M. Graczyk, _Comparison of Neural Network and Hadronic Model Predictions of Two-Photon Exchange Effect,_ [Phys. Rev. C88, 065205 (2013)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.065205)
 
 * Krzysztof M. Graczyk, _Two-photon exchange effect studied with neural networks_,
   [Phys. Rev. C84, 034314 (2011)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.84.034314)
