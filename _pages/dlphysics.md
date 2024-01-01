@@ -13,7 +13,7 @@ _The project's goal is to optimize the NuWro Monte Carlo generator utilizing dee
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Hemant Prasad, Jan T. Sobczyk, _Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods_,
   [arxiv:2312.17298](https://arxiv.org/abs/2312.17298)
-  - The fits are available at [repository](https://github.com/xxx) 
+  - The fits are available at [repository](https://github.com/bekowal/CarbonElectronNeuralNetwork) 
   
 
 ## Physics Informed Neural Networks (PINNs)
