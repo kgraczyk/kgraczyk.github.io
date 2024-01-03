@@ -18,7 +18,7 @@ Shortly
 * I am an author of publications in the following arxiv categories: hep-ph, hep-th, hep-exp, nucl-th, nucl-ex, physics.comp-ph, cond-mat.dis-nn, physics.flu-dyn, cs.lg, stat.ML
 
 
-Current Projects I am involved
+Current Projects I am involved in
 ======
   * Bayesian Neural Networks for Partial Differential Equations
   * Deep Learning for Physics of Fluids
