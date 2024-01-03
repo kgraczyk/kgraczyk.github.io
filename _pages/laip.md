@@ -22,6 +22,8 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 Seminar: almost every Thursday, 10:00, room 416
 
+* 11.01.2024:
+  * title: __Bayesian Neural Network C++ Library: Review__, speaker: C. Juszczak
 
 * 30.11.2023:
   * title: __Hopfield model - neural network based associative memory__, speaker: B. Domański
