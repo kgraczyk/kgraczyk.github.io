@@ -22,10 +22,10 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 Seminar: almost every Thursday, 10:00, room 416
 
-* 18.01.2024:
+* XX.02.2024:
   * title: __Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods__, speaker: B. Kowal
 
-* 11.01.2024:
+* 18.01.2024:
   * title: __Bayesian Neural Network C++ Library: Review__, speaker: C. Juszczak
 
 * 30.11.2023:
