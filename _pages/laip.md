@@ -22,8 +22,14 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 Seminar: almost every Thursday, 10:00, room 416
 
-* XX.02.2024:
+* 17.05.2024:
   * title: __Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods__, speaker: B. Kowal
+
+* 09.05.2024:
+  * title: __Assiciative Memory__, speaker: B. Domński
+
+* 25.04.2024:
+  * title: __GANs for MC Generator of Events__, speaker: L. Bonila
 
 * 18.01.2024:
   * title: __Bayesian Neural Network C++ Library: Review__, speaker: C. Juszczak
