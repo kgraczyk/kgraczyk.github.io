@@ -20,7 +20,7 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 ======
 
-Seminar: almost every Thursday, 10:00, room 416
+Seminar: almost every Thursday, 9:00, room 416
 
 * 17.05.2024:
   * title: __Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods__, speaker: B. Kowal
