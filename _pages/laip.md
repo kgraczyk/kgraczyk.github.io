@@ -23,7 +23,7 @@ _Group of physicists keen on applications and development of AI methods for theo
 Seminar: almost every Thursday, 9:00, room 416
 
 * 23.05.2024:
-  * title: __tba__, speaker: tba
+  * title: __Diffusion from Deep Learning__, speaker: D. Strzelczyk
 
 * 16.05.2024:
   * title: __Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods__, speaker: B. Kowal
