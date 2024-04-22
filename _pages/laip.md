@@ -29,7 +29,7 @@ Seminar: almost every Thursday, 9:00, room 416
   * title: __Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods__, speaker: B. Kowal
 
 * 09.05.2024:
-  * title: __Associative Memory__, speaker: B. Domański
+  * title: __Image processing in associative memory. From Hopfield networks to HopfieldLayer__, speaker: B. Domański
 
 * 25.04.2024:
   * title: __GANs for MC Generator of Events__, speaker: L. Bonila
