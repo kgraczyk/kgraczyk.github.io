@@ -13,9 +13,9 @@ _Group of physicists keen on applications and development of AI methods for theo
 * In particular, we focus on the development of:
     * Deep learning models for studies of porous media
     * Machine learning models for Monte Carlo simulations of neutrino-nucleus scattering
-    * Bayesian methods for the analysis of eletron and neutrino scattering data
+    * Bayesian methods for the analysis of electron and neutrino scattering data
     * Hopfield model
-    * PINN-like approach
+    * PINN in Bayesian approach
 * [The list of papers obtained within the initiative](https://kgraczyk.github.io/dlphysics/)
 
 ======
