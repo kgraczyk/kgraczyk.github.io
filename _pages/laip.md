@@ -32,7 +32,7 @@ Seminar: almost every Thursday, 9:00, room 416
   * title: __Image processing in associative memory. From Hopfield networks to HopfieldLayer__, speaker: B. Domański
 
 * 25.04.2024:
-  * title: __GANs for MC Generator of Events__, speaker: L. Bonila
+  * title: __GANs for MC Generator of Events__, speaker: L. Bonilla
 
 * 18.01.2024:
   * title: __Bayesian Neural Network C++ Library: Review__, speaker: C. Juszczak
