@@ -22,6 +22,15 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 Seminar: almost every Thursday, 9:00, room 416
 
+* 21.06.2024:
+  * title: __tba__, speaker: tba
+
+* 14.06.2024:
+  * title: __tba__, speaker: tba
+   
+* 06.06.2024:
+  * title: __Diffusion Model for MC Simulations__, speaker: L. Bonilla
+
 * 23.05.2024:
   * title: __Diffusion for Deep Learning__, speaker: D. Strzelczyk
 
