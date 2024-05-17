@@ -22,10 +22,10 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 Seminar: almost every Thursday, 9:00, room 416
 
-* 21.06.2024:
+* 20.06.2024:
   * title: __tba__, speaker: tba
 
-* 14.06.2024:
+* 13.06.2024:
   * title: __tba__, speaker: tba
    
 * 06.06.2024:
