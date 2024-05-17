@@ -32,7 +32,7 @@ Seminar: almost every Thursday, 9:00, room 416
   * title: __Diffusion Model for MC Simulations__, speaker: L. Bonilla
 
 * 23.05.2024:
-  * title: __Diffusion for Deep Learning__, speaker: D. Strzelczyk
+  * title: __Diffusion by Deep Learning__, speaker: D. Strzelczyk
 
 * 16.05.2024:
   * title: __Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods__, speaker: B. Kowal
