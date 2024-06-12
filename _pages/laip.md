@@ -26,7 +26,7 @@ Seminar: almost every Thursday, 9:00, room 416
   * title: __tba__, speaker: tba
 
 * 13.06.2024:
-  * title: __tba__, speaker: tba
+  * title: __Attention is all you need, transformer neural network basics__, speaker: B. Domański
    
 * 06.06.2024:
   * title: __Diffusion Model for MC Simulations__, speaker: L. Bonilla
