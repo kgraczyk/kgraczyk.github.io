@@ -42,12 +42,13 @@ __Awards__
 * 2019: University of Wroclaw Rector's award for organizational achievements in 2018
 * 2020: University of Wroclaw Rector's award for organizational achievements in 2019
 * 2022: University of Wroclaw Rector's award for organizational and scientific achievements in 2021
+* 2023: University of Wroclaw Rector's award for organizational and scientific achievements in 2022
 
 
 __Scientific Scores__
 ======
 * H-factor: 19 (Web-of-Science), 
-* Number of Citations: 1233
+* Number of Citations: 1347
 * Number of papers: 53. 
 
 Skills
