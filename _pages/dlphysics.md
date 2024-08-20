@@ -11,8 +11,12 @@ redirect_from:
 ---
 _The project's goal is to optimize the NuWro Monte Carlo generator utilizing deep learning tools._
 
-* Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Hemant Prasad, Jan T. Sobczyk, _Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods_,
-  [arxiv:2312.17298](https://arxiv.org/abs/2312.17298)
+* Krzysztof M. Graczyk, Beata Kowal, Artur M. Ankowski, Rwik D. Banerjee, Jose Luis Bonilla, Hemant Prasad, Jan T. Sobczyk,
+  _Electron-nucleus cross sections from transfer learning_, [arxiv:2408.09936](https://arxiv.org/abs/2408.09936)
+
+* Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Hemant Prasad, Jan T. Sobczyk,
+  _Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods_,
+  [Phys. Rev. C 110, 025501](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.025501)
   - The fits are available at [repository](https://github.com/bekowal/CarbonElectronNeuralNetwork) 
   
 
