@@ -47,9 +47,9 @@ __Awards__
 
 __Scientific Scores__
 ======
-* H-factor: 19 (Web-of-Science), 
-* Number of Citations: 1347
-* Number of papers: 53. 
+* H-factor: 20 (Web-of-Science), 
+* Number of Citations: 1374
+* Number of papers: 54. 
 
 Skills
 ======
