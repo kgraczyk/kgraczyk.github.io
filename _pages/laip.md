@@ -22,8 +22,26 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 Seminar: almost every Thursday, 9:00, room 416
 
-* 20.06.2024:
+---
+
+___2024/2025___
+
+* 07.10.2024:
   * title: __tba__, speaker: tba
+
+* 31.10.2024:
+  * title: __tba__, speaker: tba
+
+ * 24.10.2024:
+  * title: __Deep learning and Neutrino-Nucleus Scattering__, speaker: K. Graczyk
+
+    
+
+
+
+---
+__2023/2024__
+
 
 * 13.06.2024:
   * title: __Attention is all you need, transformer neural network basics__, speaker: B. Domański
