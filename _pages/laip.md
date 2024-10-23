@@ -26,7 +26,25 @@ Seminar: almost every Thursday, 9:00, room 416
 
 ___2024/2025___
 
-* 07.10.2024:
+* 19.12.2024:
+  * title: __tba__, speaker: tba
+
+* 12.12.2024:
+  * title: __tba__, speaker: tba
+
+* 05.12.2024:
+  * title: __tba__, speaker: tba
+
+* 28.11.2024:
+  * title: __tba__, speaker: tba
+
+* 21.11.2024:
+  * title: __tba__, speaker: tba
+
+* 14.11.2024:
+  * title: __tba__, speaker: tba
+
+* 07.11.2024:
   * title: __tba__, speaker: tba
 
 * 31.10.2024:
