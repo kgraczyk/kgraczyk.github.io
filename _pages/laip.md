@@ -20,7 +20,7 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 ======
 
-Seminar: almost every Thursday, 9:00, room 416
+Seminar: almost every Thursday, 10:00, room 416
 
 ---
 
@@ -45,7 +45,7 @@ ___2024/2025___
   * title: __tba__, speaker: tba
 
 * 07.11.2024:
-  * title: __tba__, speaker: tba
+  * title: __tba__, speaker: dr Łukasz Mścisławski OP, Wroclaw University of Science and Technology
 
 * 31.10.2024:
   * title: __tba__, speaker: tba
