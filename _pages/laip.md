@@ -47,7 +47,7 @@ ___2024/2025___
 * 07.11.2024:
   * title: __AI okiem filozofa - nieco mniej konwencjonalnie__, speaker: dr Łukasz Mścisławski OP, Wroclaw University of Science and Technology
 
- * 24.10.2024:
+* 24.10.2024:
   * title: __Deep learning and Neutrino-Nucleus Scattering__, speaker: K. Graczyk
 
     
