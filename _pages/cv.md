@@ -21,24 +21,19 @@ redirect_from:
   * *Lepton-nucleon scattering in elastic and resonance regions*
 
 ## Work Experience
-* **From 2016**: University Professor  
+* **From 2019**: University Professor  
   * Neutrino Physics Division  
-
-* **From 2020**: Vice-Dean (Prodziekan) for Student Affairs and Infrastructure, Faculty of Physics and Astronomy, Wroclaw University  
-
-* **2008–2009**: Post-Doc at Dipartimento di Fisica Teorica, Università degli Studi di Torino, Italy  
 
 * **2005–2019**: Adjunct  
   * Wroclaw University, Institute of Theoretical Physics  
   * Neutrino Physics Division  
 
-* **2019–till now**: University Professor  
-  * Wroclaw University, Institute of Theoretical Physics  
-  * Neutrino Physics Division  
+* **2008–2009**: Post-Doc at Dipartimento di Fisica Teorica, Università degli Studi di Torino, Italy  
 
+* **From 2020**: Vice-Dean (Prodziekan) for Student Affairs and Infrastructure, Faculty of Physics and Astronomy, Wroclaw University  
 
 * **2016–2020**: Deputy Director (Administration and IT) at Institute of Theoretical Physics, Wroclaw University  
-* **2016–till now**: Vice-Dean for Student Affairs and Infrastructure at Faculty of Physics and Astronomy, Wroclaw University  
+
 
 
 ## Awards
