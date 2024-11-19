@@ -9,56 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S. in Physics, Wroclaw University, Institute of Theoretical Physics, 2000
-  * _Fusion rules in minimal models in 2-dimensional conformal field theory_ (advisor: prof. Zbigniew Jaskólski)
-  * 1998-1999: Socrates scholarship, Rijksuniversiteit Groningen (Holland)
-* Ph.D in Physics, Wroclaw University, Institute of Theoretical Physics, 2005
-  * _Rozpraszanie neutrin na jadrach i nukleonach_ (advisor: prof. J.T. Sobczyk)
-* Habilitation in Physics, _Lepton-nucleon scattering in elastic and resonance region_, 2016
+## Education
+* **M.S. in Physics**, Wroclaw University, Institute of Theoretical Physics, 2000, September  
+  * *Fusion rules in minimal models in 2-dimensional conformal field theory* (advisor: Prof. Zbigniew Jaskólski)  
+  * 1998–1999: Socrates scholarship, Rijksuniversiteit Groningen (Netherlands)  
 
-Work experience
-======
-* From 2016: University Professor
-    * Neutrino Physics Division
-* From 2020: Vice-Dean (prodziekan) for Student Affairs and Infrastructure, Faculty of Physics and Astronomy, Wroclaw University 
+* **Ph.D. in Physics**, Wroclaw University, Institute of Theoretical Physics, 2005, May  
+  * *Rozpraszanie neutrin na jądrach i nukleonach* (advisor: Prof. J.T. Sobczyk)  
 
-* 2008-2009: Post-Doc at Dipartimento di Fisica Teoria, Universita degli Studi di Torino, Italy.
+* **Habilitation in Physics**, 2016, September  
+  * *Lepton-nucleon scattering in elastic and resonance regions*
 
-* From 2005 till 2016: Adjunct
-  * Wroclaw University, Institute of Theoretical Physics
-  * Neutrino Physics Division
+## Work Experience
+* **From 2016**: University Professor  
+  * Neutrino Physics Division  
 
-* 2016 - 2020: Deputy Director (Administration and IT) at Institute of Theoretical Physics, Wroclaw University
+* **From 2020**: Vice-Dean (Prodziekan) for Student Affairs and Infrastructure, Faculty of Physics and Astronomy, Wroclaw University  
 
-__Awards__
+* **2008–2009**: Post-Doc at Dipartimento di Fisica Teorica, Università degli Studi di Torino, Italy  
 
-* 2004: <a href="http://www.mborn-scholar.wroc.pl/index.php?nazwa=laureaci04">Max Born fellowship</a>
-* 2010: Minister of Science and Higher Education (MNiSW) three years stipend for outstanding young scientists >>>
-* 2016: University of Wroclaw Rector's award for research achievements in 2015
-* 2017: University of Wroclaw Rector's award for organizational achievements in 2016
-* 2018: University of Wroclaw Rector's award for organizational achievements in 2017
-* 2019: University of Wroclaw Rector's award for organizational achievements in 2018
-* 2020: University of Wroclaw Rector's award for organizational achievements in 2019
-* 2022: University of Wroclaw Rector's award for organizational and scientific achievements in 2021
-* 2023: University of Wroclaw Rector's award for organizational and scientific achievements in 2022
+* **2005–2019**: Adjunct  
+  * Wroclaw University, Institute of Theoretical Physics  
+  * Neutrino Physics Division  
+
+* **2019–till now**: University Professor  
+  * Wroclaw University, Institute of Theoretical Physics  
+  * Neutrino Physics Division  
 
 
-__Scientific Scores__
-======
-* H-factor: 20 (Web-of-Science), 
-* Number of Citations: 1374
-* Number of papers: 54. 
+* **2016–2020**: Deputy Director (Administration and IT) at Institute of Theoretical Physics, Wroclaw University  
+* **2016–till now**: Vice-Dean for Student Affairs and Infrastructure at Faculty of Physics and Astronomy, Wroclaw University  
 
-Skills
-======
-* Numerical Computations
-* Programming
-  * C++, Python
-  * Wolfram Mathematica, Reduce, Form
+
+## Awards
+* **2004**: [Max Born Fellowship](http://www.mborn-scholar.wroc.pl/index.php?nazwa=laureaci04)  
+* **2010**: Minister of Science and Higher Education (MNiSW) three-year stipend for outstanding young scientists  
+
+## Scientific Scores
+* **H-index**: 20 (Web of Science)  
+* **Citations**: 1374  
+* **Publications**: 54  
+
+## Skills
+* **Numerical Computations**  
+* **Programming**  
+  * C++, Python  
+  * Wolfram Mathematica, Reduce, Form  
   * PyTorch, TensorFlow
 
+    
 Publications
 ======
   <ul>{% for post in site.publications %}
