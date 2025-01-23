@@ -26,24 +26,6 @@ Seminar: almost every Thursday, 10:00, room 416
 
 ___2024/2025___
 
-* 19.12.2024:
-  * title: __tba__, speaker: tba
-
-* 12.12.2024:
-  * title: __tba__, speaker: tba
-
-* 05.12.2024:
-  * title: __tba__, speaker: tba
-
-* 28.11.2024:
-  * title: __tba__, speaker: tba
-
-* 21.11.2024:
-  * title: __tba__, speaker: tba
-
-* 14.11.2024:
-  * title: __tba__, speaker: tba
-
 * 07.11.2024:
   * title: __AI okiem filozofa - nieco mniej konwencjonalnie__, speaker: dr Łukasz Mścisławski OP, Wroclaw University of Science and Technology
 
@@ -51,9 +33,6 @@ ___2024/2025___
   * title: __Deep learning and Neutrino-Nucleus Scattering__, speaker: K. Graczyk
 
     
-
-
-
 ---
 __2023/2024__
 
