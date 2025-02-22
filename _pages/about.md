@@ -20,9 +20,9 @@ Shortly
 
 Current Projects I am involved in
 ======
+  * Deep Learning for neutrino interactions with nuclei
   * Bayesian Neural Networks for Partial Differential Equations
   * Deep Learning for Physics of Fluids
-  * Deep Learning for NuWro Monte Carlo Generator
   * Algebraic Structures for SuperGravity
 
 
@@ -30,7 +30,8 @@ Available Ph.D. or MSc. topics
 ====== 
 A) Deep learning in Physics
 The project concerns studies and applications of deep learning methods in physics. Three directions of research are distinguished:
-  * Deep learning for NuWro Monte Carlo genrator;
-  * Physics informed and guided Neural Networks
+  * Deep learning for neutrino interactions;
+  * Physics-informed, guided and inspired Neural Networks
+  * Teaching physics neural networks
 
 
