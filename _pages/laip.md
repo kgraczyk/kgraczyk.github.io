@@ -14,17 +14,23 @@ _Group of physicists keen on applications and development of AI methods for theo
     * Deep learning models for studies of porous media
     * Machine learning models for Monte Carlo simulations of neutrino-nucleus scattering
     * Bayesian methods for the analysis of electron and neutrino scattering data
-    * Hopfield model
+    * Hopfield-like models
     * PINN in Bayesian approach
 * [The list of papers obtained within the initiative](https://kgraczyk.github.io/dlphysics/)
 
 ======
 
-Seminar: almost every Thursday, 10:00, room 416
+Seminar: Fridays, 10:00, room 416
 
 ---
 
 ___2024/2025___
+
+* 14.03.2025:
+  * title: __TBA__, speaker: dr L. Bonilla
+
+* 07.03.2025:
+  * title: __TBA__, speaker: dr R. Durka
 
 * 07.11.2024:
   * title: __AI okiem filozofa - nieco mniej konwencjonalnie__, speaker: dr Łukasz Mścisławski OP, Wroclaw University of Science and Technology
