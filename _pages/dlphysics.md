@@ -7,9 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-## Deep learning for NuWro Monte Carlo generator
+## Deep learning for (anti)neutrino-nuclei scattering
 ---
-_The project's goal is to optimize the NuWro Monte Carlo generator utilizing deep learning tools._
+_The project's goal is to develop deep learning tools for neutrino interactions._
+
+* Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Generative adversarial neural networks for simulating neutrino interactions_, [arxiv:2502.20244](https://arxiv.org/abs/2502.20244)
 
 * Krzysztof M. Graczyk, Beata Kowal, Artur M. Ankowski, Rwik D. Banerjee, Jose Luis Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _Electron-nucleus cross sections from transfer learning_, [arxiv:2408.09936](https://arxiv.org/abs/2408.09936)
