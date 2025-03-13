@@ -38,7 +38,7 @@ ___2024/2025___
   * title: __AI in Academia__, speaker: dr R. Durka
     ```
     Abstract: Artificial Intelligence (AI) has the potential to reshape teaching and scientific research. We will explore real-world applications of AI tools, from improving various academic aspects and optimizing workflows to enhancing scientific exploration. I will also highlight recent developments and features, including new tools like Canva, voice-enabled AI, autonomous AI agents, deep research, and recent reasoning models.
-    ```
+```
 
 * 07.11.2024:
   * title: __AI okiem filozofa - nieco mniej konwencjonalnie__, speaker: dr Łukasz Mścisławski OP, Wroclaw University of Science and Technology
