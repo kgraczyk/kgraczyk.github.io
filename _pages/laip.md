@@ -26,14 +26,19 @@ Seminar: Fridays, 10:00, room 416
 
 ___2024/2025___
 
+
+
 * 14.03.2025:
-  * title: __TBA__, speaker: dr L. Bonilla
+  * title: __Generative adversarial neural networks for simulating neutrino interactions__, speaker: dr L. Bonilla
+    ```
+    Abstract: We propose a new approach to simulate neutrino scattering events as an alternative to the standard Monte Carlo generator approach. Generative adversarial neural network (GAN) models are developed to simulate neutrino-carbon collisions in the few-GeV energy range. Two GAN models have been obtained: one simulating only quasielastic neutrino-nucleus scatterings and another simulating all interactions at given neutrino energy, trained on NuWro Monte Carlo simulation. The performance of both models has been assessed using two statistical metrics, and it is shown that both GAN models successfully reproduce the event distributions from the training data set.
+```
 
 * 07.03.2025:
   * title: __AI in Academia__, speaker: dr R. Durka
-    '''
-    Artificial Intelligence (AI) has the potential to reshape teaching and scientific research. We will explore real-world applications of AI tools, from improving various academic aspects and optimizing workflows to enhancing scientific exploration. I will also highlight recent developments and features, including new tools like Canva, voice-enabled AI, autonomous AI agents, deep research, and recent reasoning models.
-    '''
+    ```
+    Abstract: Artificial Intelligence (AI) has the potential to reshape teaching and scientific research. We will explore real-world applications of AI tools, from improving various academic aspects and optimizing workflows to enhancing scientific exploration. I will also highlight recent developments and features, including new tools like Canva, voice-enabled AI, autonomous AI agents, deep research, and recent reasoning models.
+    ```
 
 * 07.11.2024:
   * title: __AI okiem filozofa - nieco mniej konwencjonalnie__, speaker: dr Łukasz Mścisławski OP, Wroclaw University of Science and Technology
