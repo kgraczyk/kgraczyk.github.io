@@ -26,6 +26,15 @@ Seminar: Fridays, 10:00, room 416
 
 ___2024/2025___
 
+* 24.04.2025:
+  * title: __tba__, speaker: tba
+
+* 10.04.2025:
+  * title: __tba__, speaker: tba
+
+* 03.04.2025:
+  * title: __Fluid flows with LLM's__, speaker: dr hab. M. Matyka
+
 
 * 28.03.2025:
   * title: __AI in Academia cont.__, speaker: dr R. Durka
