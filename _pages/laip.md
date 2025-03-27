@@ -27,8 +27,11 @@ Seminar: Fridays, 10:00, room 416
 ___2024/2025___
 
 
+* 28.03.2025:
+  * title: __AI in Academia cont.__, speaker: dr R. Durka
 
-* 14.03.2025:
+
+* 21.03.2025:
   * title: __Generative adversarial neural networks for simulating neutrino interactions__, speaker: dr L. Bonilla
 
     **Abstract:** We propose a new approach to simulate neutrino scattering events as an alternative to the standard Monte Carlo generator approach. Generative adversarial neural network (GAN) models are developed to simulate neutrino-carbon collisions in the few-GeV energy range. Two GAN models have been obtained: one simulating only quasielastic neutrino-nucleus scatterings and another simulating all interactions at given neutrino energy, trained on NuWro Monte Carlo simulation. The performance of both models has been assessed using two statistical metrics, and it is shown that both GAN models successfully reproduce the event distributions from the training data set.
