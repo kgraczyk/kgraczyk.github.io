@@ -30,7 +30,13 @@ ___2024/2025___
   * title: __tba__, speaker: tba
 
 * 11.04.2025:
-  * title: __tba__, speaker: tba
+  * title: __Automated Machine Learning and Interactive Apps from Notebooks – Tools for Physicists__, speaker: dr Piotr Płoński ([MLJAR](https://mljar.com), Inc.)
+    
+    **Abstract:** In this talk, I will show how physicists can use automated machine learning (AutoML) tools to quickly build models from data. I will present MLJAR-supervised – an open-source AutoML tool that automatically creates models, selects the best one, and generates easy-to-read reports.
+
+I will also introduce MLJAR Studio – a user-friendly IDE that combines code, data, and AI in one place. Finally, I will demonstrate Mercury – a tool that turns Jupyter Notebooks into interactive web apps that can be shared with others.
+
+The talk will be practical, based on real examples, and focused on tools that make everyday research work easier.
 
 * 03.04.2025:
   * title: __Fluid flows with LLM's__, speaker: dr hab. M. Matyka
