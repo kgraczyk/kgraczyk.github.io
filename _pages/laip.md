@@ -26,6 +26,24 @@ Seminar: Fridays, 10:00, room 416
 
 ___2024/2025___
 
+* 13.06.2025:
+  * title: __tba__, speaker: tba
+
+* 06.06.2025:
+  * title: __tba__, speaker: tba
+
+* 30.05.2025:
+  * title: __tba__, speaker: tba
+
+* 23.05.2025:
+  * title: __tba__, speaker: tba
+
+* 16.05.2025:
+  * title: __tba__, speaker: tba
+
+* 09.05.2025:
+  * title: __tba__, speaker: tba
+
 * 25.04.2025:
   * title: __tba__, speaker: tba
 
