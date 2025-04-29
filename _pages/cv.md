@@ -30,6 +30,9 @@ redirect_from:
 
 * **2008–2009**: Post-Doc at Dipartimento di Fisica Teorica, Università degli Studi di Torino, Italy  
 
+## Functions
+* **From 2025**: A memeber of University Council of University of Wroclaw (Rada Uczelni)
+
 * **From 2020**: Vice-Dean (Prodziekan) for Student Affairs and Infrastructure, Faculty of Physics and Astronomy, Wroclaw University  
 
 * **2016–2020**: Deputy Director (Administration and IT) at Institute of Theoretical Physics, Wroclaw University  
