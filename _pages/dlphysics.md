@@ -24,7 +24,7 @@ _The project's goal is to develop deep learning tools for neutrino interactions.
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Hemant Prasad, Jan T. Sobczyk,
   _Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods_,
-  [Phys. Rev. C 110, 025501](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.025501)
+  [Phys. Rev. C 110, 025501 (2024)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.025501)
   - The fits are available at [repository](https://github.com/bekowal/CarbonElectronNeuralNetwork) 
   
 
