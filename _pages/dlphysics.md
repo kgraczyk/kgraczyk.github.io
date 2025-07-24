@@ -16,8 +16,6 @@ _The project's goal is to develop deep learning tools for neutrino interactions.
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _in preparation_,
   [tba](tba)
-  - The fits are available at [repository](https://github.com/bekowal/CarbonElectronNeuralNetwork) 
-
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Generative adversarial neural networks for simulating neutrino interactions_, [Phys.Rev.D 112 (2025) 1, 013007](https://journals.aps.org/prd/abstract/10.1103/l6td-93sr)
 
