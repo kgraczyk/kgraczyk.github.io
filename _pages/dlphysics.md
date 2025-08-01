@@ -11,16 +11,16 @@ redirect_from:
 ---
 _The project's goal is to develop deep learning tools for neutrino interactions._
 
-* Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [tba](tba)
+* Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2508.xxxxx]([tba](https://arxiv.org/abs/2508.xxxxx))
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
-  _in preparation_,
-  [tba](tba)
+  _Re-optimization of a deep neural network model for electron–carbon scattering using new experimental data_,
+  [arXiv:2508.xxxxx]([tba](https://arxiv.org/abs/2508.xxxxx))
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Generative adversarial neural networks for simulating neutrino interactions_, [Phys.Rev.D 112 (2025) 1, 013007](https://journals.aps.org/prd/abstract/10.1103/l6td-93sr)
 
 * Krzysztof M. Graczyk, Beata Kowal, Artur M. Ankowski, Rwik D. Banerjee, Jose Luis Bonilla, Hemant Prasad, Jan T. Sobczyk,
-  _Electron-nucleus cross sections from transfer learning_, [Phys. Rev. Lett. (2025)](https://doi.org/10.1103/zxv6-22tz)
+  _Electron-nucleus cross sections from transfer learning_, [Phys. Rev. Lett. 135, 052502 (2025)](https://doi.org/10.1103/zxv6-22tz)
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Hemant Prasad, Jan T. Sobczyk,
   _Empirical fits to inclusive electron-carbon scattering data obtained by deep-learning methods_,
