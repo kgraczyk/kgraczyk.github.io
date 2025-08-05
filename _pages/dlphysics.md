@@ -57,7 +57,7 @@ The project supported by MOZART Grant [WCA](https://wca.wroc.pl/dr-hab-krzysztof
 
 * Krzysztof M. Graczyk, Jarosław Pawlowski, Sylwia Majchrowska, Tomasz Golan, _Self-Normalized Density Map (SNDM) for Counting Microbiological Obejcts_, [Sci Rep 12, 10583 (2022)](https://www.nature.com/articles/s41598-022-14879-3)
 
-## Bayesian neural networks for nuclean electrowak structure studies
+## Bayesian neural networks for nucleon electrowak structure studies
 ---
 
 _Bayesian neural networks were adapted to analyze:_
