@@ -12,7 +12,7 @@ redirect_from:
 _The project's goal is to develop deep learning tools for neutrino interactions._
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
-  _inn preparation_,
+  _in preparation_,
   [arXiv:2511.xxxxx](https://arxiv.org/abs/2511.xxxxx)
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2508.xxxxx](https://arxiv.org/abs/2508.xxxxx)
