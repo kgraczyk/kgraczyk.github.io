@@ -15,7 +15,7 @@ _The project's goal is to develop deep learning tools for neutrino interactions.
   _in preparation_,
   [arXiv:2511.xxxxx](https://arxiv.org/abs/2511.xxxxx)
 
-* Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2508.xxxxx](https://arxiv.org/abs/2508.xxxxx)
+* Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs_, [arXiv:2508.12987](https://arxiv.org/abs/2508.12987)
 
 * Beata Kowal, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _Re-optimization of a deep neural network model for electron-carbon scattering using new experimental data_,
