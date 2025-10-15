@@ -20,32 +20,19 @@ _Group of physicists keen on applications and development of AI methods for theo
 
 ======
 
-Seminar: Fridays, 10:00, room 416
+Seminar: Fridays, 10:15, room 416
 
 ---
 
 ___2024/2025___
 
-* 13.06.2025:
-  * title: __tba__, speaker: tba
+* 07.11.2025:
+  * title: __AI in Physics__, speaker dr hab. K. Graczyk
 
-* 06.06.2025:
-  * title: __tba__, speaker: tba
+* 17.10.2025:
+  * title:  __Machine Learning Approach to Generating Neutrino Interactions__, speaker dr L. Bonilla
 
-* 30.05.2025:
-  * title: __tba__, speaker: tba
-
-* 23.05.2025:
-  * title: __tba__, speaker: tba
-
-* 16.05.2025:
-  * title: __tba__, speaker: tba
-
-* 09.05.2025:
-  * title: __tba__, speaker: tba
-
-* 25.04.2025:
-  * title: __tba__, speaker: tba
+___2024/2025___
 
 * 11.04.2025:
   * title: __Automated Machine Learning and Interactive Apps from Notebooks – Tools for Physicists__, speaker: dr Piotr Płoński ([MLJAR](https://mljar.com), Inc.)
