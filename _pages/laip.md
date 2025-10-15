@@ -31,7 +31,8 @@ ___2024/2025___
 
 * 17.10.2025:
   * title:  __Machine Learning Approach to Generating Neutrino Interactions__, speaker dr L. Bonilla
-
+  
+---
 ___2024/2025___
 
 * 11.04.2025:
