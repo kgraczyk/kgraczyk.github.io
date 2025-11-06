@@ -32,13 +32,13 @@ ___2024/2025___
 * 05.12.2025:
   * title: tba, speaker tba
 
-* 29.11.2025:
+* 28.11.2025:
   * title: tba, speaker tba
 
-* 22.11.2025:
-  * title: tba, speaker tba
+* 21.11.2025:
+  * title: not available, speaker tba
 
-* 15.11.2025:
+* 14.11.2025:
   * title: tba, speaker tba
 
 * 07.11.2025:
