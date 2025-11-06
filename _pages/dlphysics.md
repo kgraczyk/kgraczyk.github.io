@@ -6,20 +6,27 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## _In preparation
 
-## Deep learning for (anti)neutrino-nuclei scattering
----
-_The project's goal is to develop deep learning tools for neutrino interactions._
+* Krzysztof M. Graczyk, Remigiusz Durka,
+  _in preparation_,
+  [arXiv:2606.xxxxx](https://arxiv.org/abs/2606.xxxxx)
+
 
 * Krzysztof M. Graczyk, Beata Kowal, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _in preparation_,
-  [arXiv:2604.xxxxx](https://arxiv.org/abs/2511.xxxxx)
+  [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs_, [arXiv:2602.xxxxx](https://arxiv.org/abs/2602.xxxxx)
 
 * Beata Kowal, Krzysztof M. Graczyk, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _in preparation_,
   [arXiv:2512.xxxxx](https://arxiv.org/abs/2511.xxxxx)
+
+
+## Deep learning for (anti)neutrino-nuclei scattering
+---
+_The project's goal is to develop deep learning tools for neutrino interactions._
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs_, [arXiv:2508.12987](https://arxiv.org/abs/2508.12987)
 
