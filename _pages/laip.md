@@ -35,12 +35,6 @@ ___2024/2025___
 * 28.11.2025:
   * title: tba, speaker tba
 
-* 21.11.2025:
-  * title: not available, speaker tba
-
-* 14.11.2025:
-  * title: tba, speaker tba
-
 * 07.11.2025:
   * title: __AI in Physics__, speaker dr hab. K. Graczyk
 
