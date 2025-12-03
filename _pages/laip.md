@@ -31,6 +31,7 @@ ___2024/2025___
 
 * 05.12.2025:
   * title: __Recent progress on applications of machine learning in nuclear physics__, speaker Amir Jalili (Zhejiang Sci-Tech University, China)
+    
     **Abstract:** In this lecture, we explore the conceptual and practical intersection of machine learning (ML) with scientific domains, particularly nuclear physics. It begins by framing the brain as a biological model for ML, then establishes a foundation in core statistical concepts like Maximum Likelihood Estimation (MLE) and Bayesian estimation, discussing their respective roles in data-rich and data-sparse scenarios. The talk further uses advanced ML architectures, including neural networks, and distinguishes between two powerful paradigms for integrating scientific knowledge: Physics-Guided ML (PGML) and Physics-Informed ML (PIML). It also covers optimization techniques and common algorithms. Finally, the presentation concludes with forward-looking suggestions for prospective research, proposing novel applications of ML and hybrid models in nonlinear dynamics, highlighting the transformative potential of ML as a tool for discovery across diverse scientific fields.
 
 * 07.11.2025:
