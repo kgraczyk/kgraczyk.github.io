@@ -21,7 +21,11 @@ redirect_from:
 
 * Beata Kowal, Krzysztof M. Graczyk, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _in preparation_,
-  [arXiv:2512.xxxxx](https://arxiv.org/abs/2511.xxxxx)
+  [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
+
+* Krzysztof M. Graczyk,
+  _in preparation_,
+  [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
 
 
 ## Deep learning for (anti)neutrino-nuclei scattering
@@ -106,5 +110,8 @@ _To conduct the project, the C++ library for Bayesian Neural Networks was develo
 
 * Krzysztof M. Graczyk, Piotr Płoński, Robert Sulej, _Neural Network Parameterizations of Electromagnetic Nucleon Form Factors,_
   [JHEP (2010) 053](https://link.springer.com/article/10.1007/JHEP09(2010)053)
-  
+
+## Popular articles
+
+* Krzysztof M. Graczyk, Maciej Matyka, Głębokie sieci neuronowe dla fizyki. in: Dariusz BURACZEWSKI, Małgorzata BIERNACKA, Paweł RYCHLIKOWSKI (red.), [BadAI. Nauka w erze sztucznej inteligencji](https://wuwr.eu/.../badai-nauka-w-erze-sztucznej.../). Wrocław: Wydawnictwo Uniwersytetu Wrocławskiego, 2025, p. 35–54'
  
