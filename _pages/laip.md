@@ -26,9 +26,6 @@ Seminar: Fridays, 10:15, room 416
 
 ___2024/2025___
 
-* 19.12.2025:
-  * title: tba, speaker tba
-
 * 05.12.2025:
   * title: __Recent progress on applications of machine learning in nuclear physics__, speaker Amir Jalili (Zhejiang Sci-Tech University, China)
     
