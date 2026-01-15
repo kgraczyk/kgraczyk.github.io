@@ -12,20 +12,28 @@ redirect_from:
   _in preparation_,
   [arXiv:2606.xxxxx](https://arxiv.org/abs/2606.xxxxx)
 
+* J. Sz, Krzysztof M. Graczyk, Jose L. Bonilla,
+  _in preparation_,
+  [arXiv:2606.xxxxx](https://arxiv.org/abs/2606.xxxxx)
 
-* Krzysztof M. Graczyk, Beata Kowal, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
+* Beata E. Kowal, Krzysztof M. Graczyk, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _in preparation_,
   [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
 
-* Jose L. Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs_, [arXiv:2602.xxxxx](https://arxiv.org/abs/2602.xxxxx)
+* Jose L. Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2602.xxxxx](https://arxiv.org/abs/2602.xxxxx)
 
-* Beata Kowal, Krzysztof M. Graczyk, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
+* Hemant Prasad, Krzysztof M. Graczyk, Beata E. Kowal, Jan T. Sobczyk, Rwik D. Banerjee, Jose L. Bonilla,
+  _in preparation_,
+  [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
+
+
+* Beata E. Kowal, Krzysztof M. Graczyk, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _in preparation_,
   [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
 
 * Krzysztof M. Graczyk,
   _in preparation_,
-  [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
+  [arXiv:2606.xxxxx](https://arxiv.org/abs/2606.xxxxx)
 
 
 ## Deep learning for (anti)neutrino-nuclei scattering
