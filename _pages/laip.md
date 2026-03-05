@@ -24,8 +24,10 @@ Seminar: Fridays, 10:15, room 416
 
 ---
 
+* 20.03.2026:
+  * title: __tba__, speaker tba
 * 06.03.2026:
-  * title: __tba__, speaker Hemant Prasad
+  * title: __Neural Network Inference Using ONNX Runtime in C++__, speaker Hemant Prasad
 
 ___2024/2025___
 
