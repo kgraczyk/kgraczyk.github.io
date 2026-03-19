@@ -24,15 +24,16 @@ Seminar: Fridays, 10:15, room 416
 
 ---
 
-* 20.03.2026:
-  * title: __tba__, speaker tba
+* 10.04.2026:
+  * title: __tba__, speaker dr Jakub Jankowski
+
 * 06.03.2026:
   * title: __Neural Network Inference Using ONNX Runtime in C++__, speaker Hemant Prasad
 
 ___2024/2025___
 
 * 05.12.2025:
-  * title: __Recent progress on applications of machine learning in nuclear physics__, speaker Amir Jalili (Zhejiang Sci-Tech University, China)
+  * title: __Recent progress on applications of machine learning in nuclear physics__, speaker dr Amir Jalili (Zhejiang Sci-Tech University, China)
 
 * 07.11.2025:
   * title: __AI in Physics__, speaker dr hab. K. Graczyk
