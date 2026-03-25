@@ -9,12 +9,12 @@ For single pion production, we investigated the role of spin observables in dise
 The project was carried out in collaboration with Beata Kowal.
 
 **References:**
-- [Phys. Rev. D 101 (2020) 7, 073002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.073002)
-- [Acta Phys. Polon. B 50 (2019) 1771](https://www.actaphys.uj.edu.pl/index_n.php?I=R&V=50&N=11#1771)
-- [Phys. Rev. D 97 (2018) 1, 013001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.013001)
-- [Phys. Rev. D 99 (2019) 5, 053002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.053002)
-- [Phys. Rev. D 104 (2021) 3, 033005](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.033005)
-- [Acta Phys. Polon. B 48 (2017) 2219](https://www.actaphys.uj.edu.pl/index_n.php?I=R&V=48&N=12#2219)
+[Phys. Rev. D 101 (2020) 7, 073002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.073002),
+[Acta Phys. Polon. B 50 (2019) 1771](https://www.actaphys.uj.edu.pl/index_n.php?I=R&V=50&N=11#1771),
+[Phys. Rev. D 97 (2018) 1, 013001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.013001),
+[Phys. Rev. D 99 (2019) 5, 053002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.053002),
+[Phys. Rev. D 104 (2021) 3, 033005](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.033005),
+[Acta Phys. Polon. B 48 (2017) 2219](https://www.actaphys.uj.edu.pl/index_n.php?I=R&V=48&N=12#2219)
 
 ![](/images/spinbeata.png)"
 collection: portfolio
