@@ -44,9 +44,9 @@ redirect_from:
 * **2010**: Minister of Science and Higher Education (MNiSW) three-year stipend for outstanding young scientists  
 
 ## Scientific Scores
-* **H-index**: 20 (Web of Science)  
-* **Citations**: 1374  
-* **Publications**: 54  
+* **H-index**: 21 (Web of Science)  
+* **Citations**: 1608  
+* **Publications**: 61  
 
 ## Skills
 * **Numerical Computations**  
