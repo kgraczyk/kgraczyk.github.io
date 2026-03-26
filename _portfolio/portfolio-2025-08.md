@@ -1,7 +1,7 @@
 ---
 title: "Deep learning for electron–nucleus scattering"
 excerpt: >
-  This project aims to develop a reliable data-driven model of electron–nucleus scattering cross sections and to show that deep neural networks can learn meaningful features of nuclear physics. Starting from electron–carbon data, we built neural-network models that describe scattering across a broad kinematic range, then showed that the learned representation can be transferred to other nuclei with only limited additional data. The most recent stage of the project opens the way toward updated and more precise models based on newly available measurements.
+  This project aims to develop a reliable data-driven model of electron–nucleus scattering cross sections and to show that deep neural networks can learn meaningful features of nuclear physics. 
 collection: portfolio
 ---
 
