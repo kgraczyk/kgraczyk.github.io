@@ -1,0 +1,24 @@
+---
+title: "Generative models for neutrino–nucleus scattering"
+excerpt: >
+  This project aims to develop a generative model for simulating neutrino and antineutrino scattering on atomic nuclei. Using generative adversarial networks and transfer learning, we showed that neural-network models can reproduce key kinematic distributions, learn reusable information about lepton–nucleus dynamics, and efficiently adapt to new targets and interaction channels. The project opens a path toward next-generation fast event generators for neutrino physics. 
+collection: portfolio
+---
+
+<p>This project is devoted to building a generative model for neutrino and antineutrino scattering on atomic nuclei. The main goal is to create a flexible and accurate alternative to standard Monte Carlo event generators, while also testing whether modern machine-learning models can capture genuine features of lepton–nucleus dynamics rather than simply memorizing training data. :contentReference[oaicite:0]{index=0}</p>
+
+<p>The first step was the development of conditional generative adversarial neural networks trained on simulated neutrino–carbon events in the few-GeV region. Two models were constructed: one for quasielastic scattering and one for the full set of interaction channels at fixed neutrino energy. Both reproduced the main distributions of muon kinematics and showed that GAN-based event generation can successfully emulate the behavior of a traditional neutrino event generator. :contentReference[oaicite:1]{index=1}</p>
+
+<p>The central result of the project came in the transfer-learning study. There we showed that a generative model trained on one process, such as neutrino–carbon scattering, can be efficiently adapted to related reactions, including neutrino–argon and antineutrino–carbon scattering, even when only limited new training data are available. This demonstrated that the network learns reusable physical information about the underlying scattering dynamics, including prominent structures such as the quasielastic and Δ-resonance regions, rather than only fitting a single dataset. :contentReference[oaicite:2]{index=2}</p>
+
+<p>Together, these results establish a new framework for fast and physically meaningful simulation of neutrino interactions with nuclei. The project shows that generative models can become a powerful tool for next-generation neutrino event generators, especially in regimes where high-quality data are sparse and efficient transfer of learned physics between targets and channels is essential. :contentReference[oaicite:3]{index=3}</p>
+
+<p><strong>Funding:</strong> National Science Centre under Grant No. UMO-2021/41/B/ST2/ 02778 and “Excellence Initiative—Research University” for the years 2020-2026 at the University of Wrocław</p>
+
+<p><strong>References:</strong><br>
+<a href="https://journals.aps.org/prd/abstract/10.1103/l6td-93sr">Phys. Rev. D 112, 013007 (2025)</a><br>
+<a href="https://journals.aps.org/prd/abstract/10.1103/kwjj-wp1c">Phys. Rev. D 113, 053001 (2026)</a></p>
+
+<p><strong>Collaborators:</strong> Luis Bonilla, Artur Ankowski, Rwik Banerjee, Beata Kowal, Hemant Prasad, Jan Sobczyk</p>
+
+<p><strong>Figure:</strong> [place for illustration]</p>
