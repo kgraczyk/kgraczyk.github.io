@@ -1,0 +1,25 @@
+---
+title: "Deep learning for electron–nucleus scattering"
+excerpt: >
+  This project aims to develop a reliable data-driven model of electron–nucleus scattering cross sections and to show that deep neural networks can learn meaningful features of nuclear physics. Starting from electron–carbon data, we built neural-network models that describe scattering across a broad kinematic range, then showed that the learned representation can be transferred to other nuclei with only limited additional data. The most recent stage of the project opens the way toward updated and more precise models based on newly available measurements.
+collection: portfolio
+---
+
+<p>This project is devoted to building a reliable model of inclusive electron–nucleus scattering cross sections with the help of deep learning. The broader motivation is to provide accurate descriptions of nuclear responses in a form that is flexible, data-driven, and directly useful for modern neutrino and electron-scattering studies. At the same time, the project addresses a more fundamental question: can neural networks trained on scattering data actually learn nontrivial aspects of nuclear physics rather than merely interpolate numbers?</p>
+
+<p>The first step was to construct a deep-neural-network description of inclusive electron–carbon scattering over a wide kinematic region, from the quasielastic domain through resonance production up to the onset of deep-inelastic scattering. In that work, uncertainty-quantification strategies were developed and compared, providing an accurate empirical fit and a solid foundation for the broader project.</p>
+
+<p>The central result of the project came with the transfer-learning study. There we showed that a neural network trained on electron–carbon data can be fine-tuned to predict cross sections for other nuclei, even when only a small amount of additional data is available. This is the key evidence that the network is not simply memorizing one dataset, but is learning reusable information about the nuclear medium and the structure of the scattering process. In other words, the model learns physics that can be transferred from one nucleus to another.</p>
+
+<p>The most recent paper opens the next stage of the project by re-optimizing the electron–carbon model using newly available experimental data together with older measurements in the deep-inelastic region. This updated framework improves the description of the cross sections, revises the uncertainty estimates, and creates a natural starting point for the next generation of models for other nuclear targets.</p>
+
+<p><strong>Funding:</strong> National Science Centre under Grant No. UMO-2021/41/B/ST2/02778</p>
+
+<p><strong>References:</strong><br>
+<a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.025501">Phys. Rev. C 110, 025501 (2024)</a><br>
+<a href="https://journals.aps.org/prl/abstract/10.1103/zxv6-22tz">Phys. Rev. Lett. (2025)</a><br>
+<a href="https://journals.aps.org/prc/abstract/10.1103/ydvc-2567">Phys. Rev. C (2025)</a></p>
+
+<p><strong>Collaborators:</strong>Beata  Kowal, Artur Ankowski, Rwik Banerjee, Luis Bonilla, Hemant Prasad, Jan Sobczyk</p>
+
+<p><strong>Figure:</strong> [place for illustration]</p>
