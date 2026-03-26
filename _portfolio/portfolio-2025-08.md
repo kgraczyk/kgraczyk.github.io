@@ -17,8 +17,8 @@ collection: portfolio
 
 <p><strong>References:</strong><br>
 <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.025501">Phys. Rev. C 110, 025501 (2024)</a><br>
-<a href="https://journals.aps.org/prl/abstract/10.1103/zxv6-22tz">Phys. Rev. Lett. (2025)</a><br>
-<a href="https://journals.aps.org/prc/abstract/10.1103/ydvc-2567">Phys. Rev. C (2025)</a></p>
+<a href="https://journals.aps.org/prl/abstract/10.1103/zxv6-22tz">Phys. Rev. Lett. 135, 5 (2025)</a><br>
+<a href="https://journals.aps.org/prc/abstract/10.1103/ydvc-2567">Phys.Rev.C 112, 5 (2025)</a></p>
 
 <p><strong>Collaborators:</strong>Beata  Kowal, Artur Ankowski, Rwik Banerjee, Luis Bonilla, Hemant Prasad, Jan Sobczyk</p>
 
