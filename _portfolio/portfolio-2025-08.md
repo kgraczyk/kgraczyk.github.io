@@ -22,4 +22,4 @@ collection: portfolio
 
 <p><strong>Collaborators:</strong>Beata  Kowal, Artur Ankowski, Rwik Banerjee, Luis Bonilla, Hemant Prasad, Jan Sobczyk</p>
 
-<p><strong>Figure:</strong> [place for illustration]</p>
+<p><src="/images/cover.png></p>
