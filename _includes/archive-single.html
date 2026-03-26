@@ -1,25 +1,13 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
 {% include base_path %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
-## {% if post.link %}
-  <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink">Permalink</a>
-{% else %}
-  <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
-{% endif %}
-
-{% if post.excerpt %}
-  {{ post.excerpt }}
-{% endif %}
-
-{% if post.collaborators %}
-Collaborators: {{ post.collaborators }}
-{% endif %}
-
-{% if post.references %}
-References: {{ post.references }}
-{% endif %}
+{% assign portfolio_items = site.portfolio | sort: "order" | reverse %}
+{% for post in portfolio_items %}
+  {% include archive-single.html %}
+{% endfor %}
