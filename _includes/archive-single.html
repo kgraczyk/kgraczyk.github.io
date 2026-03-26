@@ -6,19 +6,20 @@
   {% assign title = post.title %}
 {% endif %}
 
-<h2>
-  {% if post.link %}
-    <a href="{{ post.link }}">{{ title }}</a>
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">Permalink</a>
-  {% else %}
-    <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
-  {% endif %}
-</h2>
+## {% if post.link %}
+  <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink">Permalink</a>
+{% else %}
+  <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+{% endif %}
+
+{% if post.excerpt %}
+  {{ post.excerpt }}
+{% endif %}
 
 {% if post.collaborators %}
-  <p><strong>Collaborators:</strong> {{ post.collaborators }}</p>
+Collaborators: {{ post.collaborators }}
 {% endif %}
 
 {% if post.references %}
-  <p><strong>References:</strong> {{ post.references }}</p>
+References: {{ post.references }}
 {% endif %}
