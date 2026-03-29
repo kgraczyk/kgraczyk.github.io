@@ -37,7 +37,7 @@ redirect_from:
 
 ## Deep learning for (anti)neutrino-nuclei scattering
 ---
-_The project's goal is to develop deep learning tools for neutrino interactions._
+_The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](portfolio/portfolio-2025-07/) and [here](portfolio/portfolio-2025-08/).
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs_, [Phys. Rev. D 113, 053001 (2026)](https://journals.aps.org/prd/abstract/10.1103/kwjj-wp1c)
 
