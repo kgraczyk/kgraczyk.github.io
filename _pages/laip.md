@@ -25,10 +25,10 @@ Seminar: Fridays, 10:15, room 416
 ---
 
 * 10.04.2026:
-  * title: __tba__, speaker dr Jakub Jankowski
+  * title: __Quantum improved machine learning: a short tale on business and physics__, speaker dr Jakub Jankowski
 
 * 06.03.2026:
-  * title: __Neural Network Inference Using ONNX Runtime in C++__, speaker Hemant Prasad
+  * title: __Neural Network Inference Using ONNX Runtime in C++__, speaker mgr Hemant Prasad
 
 ___2024/2025___
 
