@@ -23,14 +23,25 @@ _Group of physicists keen on applications and development of AI methods for theo
 Seminar: Fridays, 10:15, room 416
 
 ---
+___2025/2026___
+
+* 26.05.2026
+  * title: __tba__, speaker tba
+
+* 19.05.2026
+  * title: __tba__, speaker tba
+
+* 12.05.2026
+  * title: __tba__, speaker tba
+
+* 17.04.2026:
+  * title: __tba__, speaker dr Luis Bonilla
 
 * 10.04.2026:
   * title: __Quantum improved machine learning: a short tale on business and physics__, speaker dr Jakub Jankowski
 
 * 06.03.2026:
   * title: __Neural Network Inference Using ONNX Runtime in C++__, speaker mgr Hemant Prasad
-
-___2024/2025___
 
 * 05.12.2025:
   * title: __Recent progress on applications of machine learning in nuclear physics__, speaker dr Amir Jalili (Zhejiang Sci-Tech University, China)
