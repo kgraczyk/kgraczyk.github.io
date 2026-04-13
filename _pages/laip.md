@@ -34,8 +34,11 @@ ___2025/2026___
 * 12.05.2026
   * title: __tba__, speaker tba
 
+* 24.05.2026
+  * title: __tba__, speaker tba
+
 * 17.04.2026:
-  * title: __tba__, speaker dr Luis Bonilla
+  * title: __Generative adversarial networks as Monte Carlo simulation surrogate of electron-neutrino exclusive interactions at low energies__, speaker dr Luis Bonilla
 
 * 10.04.2026:
   * title: __Quantum improved machine learning: a short tale on business and physics__, speaker dr Jakub Jankowski
