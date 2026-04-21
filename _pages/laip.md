@@ -44,9 +44,6 @@ ___2025/2026___
 * 08.05.2026
   * title: __tba__, speaker tba
 
-* 24.04.2026
-  * title: __tba__, speaker tba
-
 * 17.04.2026:
   * title: __Generative adversarial networks as Monte Carlo simulation surrogate of electron-neutrino exclusive interactions at low energies__, speaker dr Luis Bonilla
 
