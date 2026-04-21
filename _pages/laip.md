@@ -30,7 +30,7 @@ ___2025/2026___
   * title: __tba__, speaker tba
 
 * 12.06.2026
-  * title: __tba__, speaker tba
+  * title: __tba__, speaker dr hab. Janusz Szwabiński (PWr.)
 
 * 29.05.2026
   * title: __tba__, speaker tba
