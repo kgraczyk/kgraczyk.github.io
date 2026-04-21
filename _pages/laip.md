@@ -25,16 +25,26 @@ Seminar: Fridays, 10:15, room 416
 ---
 ___2025/2026___
 
-* 26.05.2026
+
+* 19.06.2026
   * title: __tba__, speaker tba
 
-* 19.05.2026
+* 12.06.2026
   * title: __tba__, speaker tba
 
-* 12.05.2026
+* 29.05.2026
   * title: __tba__, speaker tba
 
-* 24.05.2026
+* 22.05.2026
+  * title: __tba__, speaker tba
+
+* 15.05.2026
+  * title: __tba__, speaker dr Rafał Lewandkow (IFD, UWr.)
+
+* 08.05.2026
+  * title: __tba__, speaker tba
+
+* 24.04.2026
   * title: __tba__, speaker tba
 
 * 17.04.2026:
@@ -53,7 +63,7 @@ ___2025/2026___
   * title: __AI in Physics__, speaker dr hab. K. Graczyk
 
 * 17.10.2025:
-  * title:  __Machine Learning Approach to Generating Neutrino Interactions__, speaker dr L. Bonilla
+  * title:  __Machine Learning Approach to Generating Neutrino Interactions__, speaker dr Luis Bonilla
 ---
 ___2024/2025___
 
