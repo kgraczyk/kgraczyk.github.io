@@ -11,11 +11,11 @@ redirect_from:
 
 Shortly
 ======
-* I work at the [Institute of Theoretical Physics](https://www.ift.uni.wroc.pl), [Wroclaw University](www.uni.wroc.pl). 
+  * I work at the [Institute of Theoretical Physics](https://www.ift.uni.wroc.pl), [Wroclaw University](www.uni.wroc.pl). 
 
-* I am interested in particle, nuclear and computational physics. I am also an enthusiast of new computationals technologies such as Deep Learning.
+  * I am interested in particle, nuclear and computational physics. I am also an enthusiast of new computationals technologies such as Deep Learning.
 
-* I am an author of publications in the following arxiv categories: hep-ph, hep-th, hep-exp, nucl-th, nucl-ex, physics.comp-ph, cond-mat.dis-nn, physics.flu-dyn, cs.lg, stat.ML
+  * I am an author of publications in the following arxiv categories: hep-ph, hep-th, hep-exp, nucl-th, nucl-ex, physics.comp-ph, cond-mat.dis-nn, physics.flu-dyn, cs.lg, stat.ML
 
 Available Positions:
 ======
