@@ -21,7 +21,7 @@ Shortly
 Available Positions:
 ======
 
-I am seeking strong postdoctoral candidates for a Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA PF) application with the University of Wrocław. The 2026 call is open and the deadline is 9 September 2026. (for more information see: https://bpr.uwr.edu.pl/uniwersytet-wroclawski-msca-pf/)
+I am seeking strong postdoctoral candidates for a __Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA PF) application with the University of Wrocław__. The 2026 call is open and the deadline is 9 September 2026. (for more information see: https://bpr.uwr.edu.pl/uniwersytet-wroclawski-msca-pf/)
 
 Possible project themes:
 * AI-driven models for electron and neutrino collisions with atomic nuclei
