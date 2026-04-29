@@ -38,7 +38,7 @@ Among the available algorithms, deep neural networks seem particularly important
 classification methods in many domains. However, the traditional feature-based methods may still be worth considering, since they are
 usually easier to interpret and work better on small data.
 
-In this talk, a feature-based algorithm will be adopted for the problem of trajectory classification. Different sets of features and
+    In this talk, a feature-based algorithm will be adopted for the problem of trajectory classification. Different sets of features and
 their impact on the performance of the classifier will be discussed. The resulting models will then be applied to real data for G
 protein-coupled receptors and G proteins. Their results will be compared to recent statistical methods going beyond MSD.
 
@@ -49,7 +49,12 @@ protein-coupled receptors and G proteins. Their results will be compared to rece
   * title: __tba__, speaker tba
 
 * 15.05.2026
-  * title: __tba__, speaker dr Rafał Lewandkow (IFD, UWr.)
+  * title: __Computer vision and deep learning for STM/EC-STM and LEED image analysis: from object detection to tracking in experimental image sequences__, speaker dr Rafał Lewandkow (IFD, UWr.)
+    Abstract: In this talk, I will present ongoing work on applying computer vision and machine learning methods to image data acquired in STM/EC-STM and LEED experiments. The main challenge in these applications is the analysis of experimental data that are typically limited in size, noisy, variable in quality, and strongly dependent on measurement conditions.
+
+    I will discuss three related directions: molecule detection in STM/EC-STM images, detection and tracking of nanoparticle evolution in EC-STM image sequences, and tracking of diffraction spots in LEED images. The presentation will deep learning-based methods, including object detection models and point or structure tracking methods for image sequences.
+
+    The goal is to show how ML/CV methods can support scientific image analysis in cases where full automation is difficult, but well-designed computational tools can make the analysis more systematic, reproducible, and efficient.
 
 * 08.05.2026
   * title: __tba__, speaker tba
