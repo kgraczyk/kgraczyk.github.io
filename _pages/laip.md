@@ -30,7 +30,17 @@ ___2025/2026___
   * title: __tba__, speaker tba
 
 * 12.06.2026
-  * title: __tba__, speaker dr hab. Janusz Szwabiński (PWr.)
+  * title: __Feature-based approach to classification of anomalous diffusion__, speaker dr hab. Janusz Szwabiński (PWr.)
+    Abstract: The most popular method to identify the class of a single-particle tracking trajectory is based on the mean-square displacement (MSD).
+However, due to its known limitations, several other approaches have already been proposed. With recent advances in algorithms and
+developments in modern hardware, there is growing interest in machine-learning approaches to the classification of diffusion modes.
+Among the available algorithms, deep neural networks seem particularly important, as they already constitute the state-of-the-art
+classification methods in many domains. However, the traditional feature-based methods may still be worth considering, since they are
+usually easier to interpret and work better on small data.
+
+In this talk, a feature-based algorithm will be adopted for the problem of trajectory classification. Different sets of features and
+their impact on the performance of the classifier will be discussed. The resulting models will then be applied to real data for G
+protein-coupled receptors and G proteins. Their results will be compared to recent statistical methods going beyond MSD.
 
 * 29.05.2026
   * title: __tba__, speaker tba
