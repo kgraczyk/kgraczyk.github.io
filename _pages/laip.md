@@ -31,7 +31,8 @@ ___2025/2026___
 
 * 12.06.2026
   * title: __Feature-based approach to classification of anomalous diffusion__, speaker dr hab. Janusz Szwabiński (PWr.)
-    Abstract: The most popular method to identify the class of a single-particle tracking trajectory is based on the mean-square displacement (MSD).
+    
+    **Abstract:** The most popular method to identify the class of a single-particle tracking trajectory is based on the mean-square displacement (MSD).
 However, due to its known limitations, several other approaches have already been proposed. With recent advances in algorithms and
 developments in modern hardware, there is growing interest in machine-learning approaches to the classification of diffusion modes.
 Among the available algorithms, deep neural networks seem particularly important, as they already constitute the state-of-the-art
@@ -50,7 +51,8 @@ protein-coupled receptors and G proteins. Their results will be compared to rece
 
 * 15.05.2026
   * title: __Computer vision and deep learning for STM/EC-STM and LEED image analysis: from object detection to tracking in experimental image sequences__, speaker dr Rafał Lewandkow (IFD, UWr.)
-    Abstract: In this talk, I will present ongoing work on applying computer vision and machine learning methods to image data acquired in STM/EC-STM and LEED experiments. The main challenge in these applications is the analysis of experimental data that are typically limited in size, noisy, variable in quality, and strongly dependent on measurement conditions.
+
+    **Abstract:** In this talk, I will present ongoing work on applying computer vision and machine learning methods to image data acquired in STM/EC-STM and LEED experiments. The main challenge in these applications is the analysis of experimental data that are typically limited in size, noisy, variable in quality, and strongly dependent on measurement conditions.
 
     I will discuss three related directions: molecule detection in STM/EC-STM images, detection and tracking of nanoparticle evolution in EC-STM image sequences, and tracking of diffraction spots in LEED images. The presentation will deep learning-based methods, including object detection models and point or structure tracking methods for image sequences.
 
