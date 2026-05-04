@@ -44,7 +44,7 @@ their impact on the performance of the classifier will be discussed. The resulti
 protein-coupled receptors and G proteins. Their results will be compared to recent statistical methods going beyond MSD.
 
 * 29.05.2026
-  * title: __tba__, speaker tba
+  * title: __tba__, speaker Jan Szurczak
 
 * 22.05.2026
   * title: __tba__, speaker tba
