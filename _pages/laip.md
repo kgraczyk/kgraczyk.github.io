@@ -46,9 +46,6 @@ protein-coupled receptors and G proteins. Their results will be compared to rece
 * 29.05.2026
   * title: __tba__, speaker Jan Szurczak
 
-* 22.05.2026
-  * title: __tba__, speaker tba
-
 * 15.05.2026
   * title: __Computer vision and deep learning for STM/EC-STM and LEED image analysis: from object detection to tracking in experimental image sequences__, speaker dr Rafał Lewandkow (IFD, UWr.)
 
