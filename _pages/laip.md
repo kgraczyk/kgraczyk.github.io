@@ -55,9 +55,6 @@ protein-coupled receptors and G proteins. Their results will be compared to rece
 
     The goal is to show how ML/CV methods can support scientific image analysis in cases where full automation is difficult, but well-designed computational tools can make the analysis more systematic, reproducible, and efficient.
 
-* 08.05.2026
-  * title: __tba__, speaker tba
-
 * 17.04.2026:
   * title: __Generative adversarial networks as Monte Carlo simulation surrogate of electron-neutrino exclusive interactions at low energies__, speaker dr Luis Bonilla
 
