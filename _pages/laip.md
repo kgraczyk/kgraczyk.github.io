@@ -73,6 +73,8 @@ protein-coupled receptors and G proteins. Their results will be compared to rece
 
 * 17.10.2025:
   * title:  __Machine Learning Approach to Generating Neutrino Interactions__, speaker dr Luis Bonilla
+
+
 ---
 ___2024/2025___
 
