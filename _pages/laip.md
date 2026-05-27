@@ -41,7 +41,8 @@ their impact on the performance of the classifier will be discussed. The resulti
 protein-coupled receptors and G proteins. Their results will be compared to recent statistical methods going beyond MSD.
 
 * 29.05.2026
-  * title: __Deep Generative Models for modeling neutrino interactions__, speaker Jan Szurczak 
+  * title: __Deep Generative Models for modeling neutrino interactions__, speaker Jan Szurczak
+  
     **Abstract:** It has been shown that Generative Adversarial Network (GAN) models can be successful in simulating neutrino-carbon collisions. Those models belong to a broader family - Deep Generative Models. We investigate whether other models that belong to this group (Variational Autoencoders [VAE] and Normalizing Flow [NF] models in particular) are also suitable for this task.
 
     In this talk, I will present obtained NF and VAE models and compare their quality with the best of previously obtained GAN models.
