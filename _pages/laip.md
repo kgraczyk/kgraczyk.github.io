@@ -28,9 +28,9 @@ ___2025/2026___
 
 * 19.06.2026
   * title: __Deep Generative Models for modeling neutrino interactions__, speaker Jan Szurczak 
-    **Abstract** It has been shown that Generative Adversarial Network (GAN) models can be successful in simulating neutrino-carbon collisions. Those models belong to a broader family - Deep Generative Models. We investigate whether other models that belong to this group (Variational Autoencoders [VAE] and Normalizing Flow [NF] models in particular) are also suitable for this task.
+    **Abstract:** It has been shown that Generative Adversarial Network (GAN) models can be successful in simulating neutrino-carbon collisions. Those models belong to a broader family - Deep Generative Models. We investigate whether other models that belong to this group (Variational Autoencoders [VAE] and Normalizing Flow [NF] models in particular) are also suitable for this task.
 
-In this talk, I will present obtained NF and VAE models and compare their quality with the best of previously obtained GAN models.
+    In this talk, I will present obtained NF and VAE models and compare their quality with the best of previously obtained GAN models.
 
 * 12.06.2026
   * title: __Feature-based approach to classification of anomalous diffusion__, speaker dr hab. Janusz Szwabiński (PWr.)
