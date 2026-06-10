@@ -26,7 +26,7 @@ Seminar: Fridays, 10:15, room 416
 ___2025/2026___
 
 
-* 12.06.2026
+* 12.06.2026 (this time 11:05)
   * title: __Feature-based approach to classification of anomalous diffusion__, speaker dr hab. Janusz Szwabiński (PWr.)
     
     **Abstract:** The most popular method to identify the class of a single-particle tracking trajectory is based on the mean-square displacement (MSD).
