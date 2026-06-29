@@ -65,9 +65,6 @@ protein-coupled receptors and G proteins. Their results will be compared to rece
 * 06.03.2026:
   * title: __Neural Network Inference Using ONNX Runtime in C++__, speaker mgr Hemant Prasad
 
-* 05.12.2025:
-  * title: __Recent progress on applications of machine learning in nuclear physics__, speaker dr Amir Jalili (Zhejiang Sci-Tech University, China)
-
 * 07.11.2025:
   * title: __AI in Physics__, speaker dr hab. K. Graczyk
 
