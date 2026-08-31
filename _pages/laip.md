@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-<img src="/images/laip_logo.svg" alt="LAIP — Laboratory of AI for Physics">
+<img src="/images/laip_logo-2.svg" alt="LAIP — Laboratory of AI for Physics">
 
 _AI for Physics - Make Physics Great Again_
 
