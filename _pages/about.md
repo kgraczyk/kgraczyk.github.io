@@ -45,6 +45,6 @@ A) Deep learning in Physics
 The project concerns studies and applications of deep learning methods in physics. Three directions of research are distinguished:
   * Deep learning for neutrino interactions;
   * Physics-informed, guided and inspired Neural Networks
-  * Teaching physics neural networks
+  * Neural networks for physics
 
 
