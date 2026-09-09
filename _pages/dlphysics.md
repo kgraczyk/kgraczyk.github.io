@@ -14,19 +14,11 @@ redirect_from:
 
 * J. Sz, Krzysztof M. Graczyk, Jose L. Bonilla,
   _in preparation_,
-  [arXiv:2606.xxxxx](https://arxiv.org/abs/2606.xxxxx)
+  [arXiv:2610.xxxxx](https://arxiv.org/abs/2619.xxxxx)
 
-* Beata E. Kowal, Krzysztof M. Graczyk, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
-  _in preparation_,
-  [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
-
-* Jose L. Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2602.xxxxx](https://arxiv.org/abs/2602.xxxxx)
+* Jose L. Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2609.xxxxx](https://arxiv.org/abs/2609.xxxxx)
 
 * Hemant Prasad, Krzysztof M. Graczyk, Beata E. Kowal, Jan T. Sobczyk, Rwik D. Banerjee, Jose L. Bonilla,
-  _in preparation_,
-  [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
-
-* Beata E. Kowal, Krzysztof M. Graczyk, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _in preparation_,
   [arXiv:2604.xxxxx](https://arxiv.org/abs/2604.xxxxx)
 
@@ -38,6 +30,10 @@ redirect_from:
 ## Deep learning for (anti)neutrino-nuclei scattering
 ---
 _The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](https://kgraczyk.github.io/portfolio/portfolio-2025-08/) and [here](https://kgraczyk.github.io/portfolio/portfolio-2025-07/).
+
+* Krzysztof M. Graczyk, Beata E. Kowal, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
+  _Inclusive electron-nucleus cross section models from domain adaptation_,
+  [arXiv:2609.08463](https://arxiv.org/abs/2609.08463)
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Transfer Learning for Neutrino Scattering: Domain Adaptation with GANs_, [Phys. Rev. D 113, 053001 (2026)](https://journals.aps.org/prd/abstract/10.1103/kwjj-wp1c)
 
@@ -57,9 +53,9 @@ _The project's goal is to develop deep learning tools for neutrino interactions.
   - The fits are available at [repository](https://github.com/bekowal/CarbonElectronNeuralNetwork) 
   
 
-## Physics Informed Neural Networks (PINNs)
+## Physics-Informed Neural Networks (PINNs)
 ---
-_The goal of the project is to propose Bayesian framework for PINNs_
+_The goal of the project is to propose a Bayesian framework for PINNs_
 
 * Krzysztof M. Graczyk, Kornel Witkowski,
   _Bayesian Reasoning for Physics Informed Neural Networks_
