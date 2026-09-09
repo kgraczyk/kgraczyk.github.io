@@ -10,15 +10,15 @@ redirect_from:
 
 * Krzysztof M. Graczyk, Remigiusz Durka,
   _in preparation_,
-  [arXiv:2606.xxxxx](https://arxiv.org/abs/2701.xxxxx)
+  [arXiv:2701.xxxxx](https://arxiv.org/abs/2701.xxxxx)
 
 * Krzysztof M. Graczyk,
   _in preparation_,
-  [arXiv:2701.xxxxx](https://arxiv.org/abs/2606.xxxxx)
+  [arXiv:2701.xxxxx](https://arxiv.org/abs/2701.xxxxx)
 
 * J. Sz, Krzysztof M. Graczyk, Jose L. Bonilla,
   _in preparation_,
-  [arXiv:2610.xxxxx](https://arxiv.org/abs/2609.xxxxx)
+  [arXiv:2610.xxxxx](https://arxiv.org/abs/2610.xxxxx)
 
 * Jose L. Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2609.xxxxx](https://arxiv.org/abs/2609.xxxxx)
 
