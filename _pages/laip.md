@@ -25,6 +25,15 @@ _AI for Physics - Make Physics Great Again_
 Seminar: Fridays, 10:15, room 416
 
 ---
+
+___2026/2027___
+
+* 23.10.2026 (this time 15:05)
+  * title __tba__, speaker dr Luis Bonilla
+
+* 16.10.2026
+  * title: __Computational Modelling with Single Prompts__, speaker dr hab. Maciej Matyka 
+
 ___2025/2026___
 
 
