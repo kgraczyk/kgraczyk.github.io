@@ -28,11 +28,21 @@ Seminar: Fridays, 10:15, room 416
 
 ___2026/2027___
 
+* 21.11.2026
+
+
+* 14.11.2026
+
+
+* 07.11.2026
+
+
 * 23.10.2026 (this time 15:05)
   * title __tba__, speaker dr Luis Bonilla
 
-* 16.10.2026
-  * title: __Computational Modelling with Single Prompts__, speaker dr hab. Maciej Matyka 
+* 16.10.2026 (this time 13:30)
+  * title: __Computational Modelling with Single Prompts__, speaker dr hab. Maciej Matyka
+      **Abstract:** Regardless of how we look at AI large language models (LLMs) - as a massive collection of data from which we can cleverly extract information, as an assistant who can perform simple tasks for us and write simple codes, or perhaps as a machine that randomly selects words, in a sense guided by what it have had has seen in the past - we are undoubtedly witnessing, and taking part, in a revolution in theoretical and computational sciences. In the talk, I will discuss selected aspects of using modern large language models and agentic systems, such as ChatGPT or Claude. I will develop the concept of a single prompts developed in my recent book [1] and use it to generate computer code for dozens of models across computational physics, statistical physics, computational fluid dynamics, far beyond [1]. I will illustrate the presentation with practical examples from statistical and soft-matter physics and include results from students in the modelling class, that I taught.
 
 ___2025/2026___
 
