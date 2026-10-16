@@ -27,6 +27,8 @@ redirect_from:
 ---
 _The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](https://kgraczyk.github.io/portfolio/portfolio-2025-08/) and [here](https://kgraczyk.github.io/portfolio/portfolio-2025-07/).
 
+* Jose Luis Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Machine-learning-based neutrino-event generation constrained by experimental measurements_,  [arXiv:2610.20870](https://arxiv.org/abs/2610.20870)
+
 * Krzysztof M. Graczyk, Beata E. Kowal, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _Inclusive electron-nucleus cross section models from domain adaptation_,
   [arXiv:2609.08463](https://arxiv.org/abs/2609.08463)
