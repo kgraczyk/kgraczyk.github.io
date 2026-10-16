@@ -16,11 +16,9 @@ redirect_from:
   _in preparation_,
   [arXiv:2701.xxxxx](https://arxiv.org/abs/2701.xxxxx)
 
-* J. Sz, Krzysztof M. Graczyk, Jose L. Bonilla,
+* J. Sz, Jose L. Bonilla, TBA, Krzysztof M. Graczyk
   _in preparation_,
   [arXiv:2610.xxxxx](https://arxiv.org/abs/2610.xxxxx)
-
-* Jose L. Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _in preparation_, [arXiv:2609.xxxxx](https://arxiv.org/abs/2609.xxxxx)
 
 
 ## Deep learning for (anti)neutrino-nuclei scattering
