@@ -24,6 +24,8 @@ redirect_from:
 ## Deep learning for (anti)neutrino-nuclei scattering
 ---
 _The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](https://kgraczyk.github.io/portfolio/portfolio-2025-08/) and [here](https://kgraczyk.github.io/portfolio/portfolio-2025-07/).
+   
+   - Obtained models can be downloaded from: [https://github.com/LuisBonillaR/NuMuGen](https://github.com/LuisBonillaR/NuMuGen) 
 
 * Jose Luis Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Machine-learning-based neutrino-event generation constrained by experimental measurements_,  [arXiv:2610.20870](https://arxiv.org/abs/2610.20870)
 
