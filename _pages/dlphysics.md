@@ -23,7 +23,8 @@ redirect_from:
 
 ## Deep learning for (anti)neutrino-nuclei scattering
 ---
-_The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](https://kgraczyk.github.io/portfolio/portfolio-2025-08/) and [here](https://kgraczyk.github.io/portfolio/portfolio-2025-07/).
+
+* _The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](https://kgraczyk.github.io/portfolio/portfolio-2025-08/) and [here](https://kgraczyk.github.io/portfolio/portfolio-2025-07/).
    
    - Obtained models can be downloaded from: [https://github.com/LuisBonillaR/NuMuGen](https://github.com/LuisBonillaR/NuMuGen) 
 
