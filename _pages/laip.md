@@ -38,7 +38,10 @@ ___2026/2027___
 
 
 * 23.10.2026 (this time 15:05)
-  * title __tba__, speaker dr Luis Bonilla
+  * title __A.I. Generative Models for Realistic Neutrino Simulation__, speaker dr Luis Bonilla
+ 
+      **Abstract:** Precise measurements of neutrino oscillations will be used to probe physics beyond the Standard Model, but they rely on accurate models of neutrinos interactions with atomic nuclei — a notoriously difficult problem. We present an alternative approach: an A.I.-based event generator that learns neutrino–nucleus interactions from Monte Carlo simulation that later can be fine-tuned directly on experimental cross-section measurements. We show that a model calibrated on MicroBooNE data not only improves its description of observables it was never trained on but also remains consistent with measurements from a different neutrino beam. This opens a new route toward experiment-constrained interaction models that are portable across detectors and neutrino sources — a key ingredient for the next generation of long-baseline neutrino experiments such as DUNE and Hyper-Kamiokande.
+ 
 
 * 16.10.2026 (this time 13:30)
   * title: __Computational Modelling with Single Prompts__, speaker dr hab. Maciej Matyka
