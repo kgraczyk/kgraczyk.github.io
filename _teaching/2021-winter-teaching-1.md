@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-winter-teaching-1
 venue: "Wroclaw University, Faculty of Physics and Astronomy"
-date: 2021-10-01, 2019-03-01, 2018-03-01, 2017-03-01, 2019-03-01 
+date: 2026-10-01 
 location: "Wroclaw, poland"
 ---
 
