@@ -47,4 +47,8 @@ The project concerns studies and applications of deep learning methods in physic
   * Physics-informed, guided and inspired Neural Networks
   * Neural networks for physics
 
+Teaching
+====== 
+[Theory of Elementary Particles](https://github.com/kgraczyk/TEP-lecture)
+
 
