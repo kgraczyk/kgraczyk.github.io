@@ -8,7 +8,9 @@ date: 2021-10-01, 2019-03-01, 2018-03-01, 2017-03-01, 2019-03-01
 location: "Wroclaw, poland"
 ---
 
-Introduction to theory of elementary particles (30h of lecture and 30h of classes). The course consists of:
+[Introduction to theory of elementary particles](https://github.com/kgraczyk/TEP-lecture) (30h of lecture and 30h of classes). 
+
+The course consists of:
 
 * Intuition, kinematics, classification of particles, etc.
 * S-matrix and cross-section formula, QED Feynman rules
