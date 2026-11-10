@@ -16,19 +16,22 @@ redirect_from:
   _in preparation_,
   [arXiv:2701.xxxxx](https://arxiv.org/abs/2701.xxxxx)
 
-* J. Sz, Jose L. Bonilla, TBA, Krzysztof M. Graczyk
+* J. Szurczak, Jose L. Bonilla, Adrián Fernández Duro, Krzysztof M. Graczyk
   _in preparation_,
-  [arXiv:2610.xxxxx](https://arxiv.org/abs/2610.xxxxx)
+  [arXiv:2612.xxxxx](https://arxiv.org/abs/2612.xxxxx)
 
 
 ## Deep learning for (anti)neutrino-nuclei scattering
 ---
 
-* _The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](https://kgraczyk.github.io/portfolio/portfolio-2025-08/) and [here](https://kgraczyk.github.io/portfolio/portfolio-2025-07/).
-   
-   - Obtained models can be downloaded from: [https://github.com/LuisBonillaR/NuMuGen](https://github.com/LuisBonillaR/NuMuGen) 
 
+* _The project's goal is to develop deep learning tools for neutrino interactions._ Short description of the project can be found [here](https://kgraczyk.github.io/portfolio/portfolio-2025-08/) and [here](https://kgraczyk.github.io/portfolio/portfolio-2025-07/).
+
+* _Incorporating deep neural networks into lepton-nucleus interaction modeling_, Hemant Prasad, Jan T. Sobczyk, Krzysztof M. Graczyk, Beata E. Kowal, Rwik Dharmapal Banerjee, J. Luis Bonilla, [arXiv:2610.40912](https://arxiv.org/abs/2610.40912)
+   
 * Jose Luis Bonilla, Krzysztof M. Graczyk, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk, _Machine-learning-based neutrino-event generation constrained by experimental measurements_,  [arXiv:2610.20870](https://arxiv.org/abs/2610.20870)
+
+   - Obtained models can be downloaded from: [https://github.com/LuisBonillaR/NuMuGen](https://github.com/LuisBonillaR/NuMuGen) 
 
 * Krzysztof M. Graczyk, Beata E. Kowal, Rwik D. Banerjee, Jose L. Bonilla, Hemant Prasad, Jan T. Sobczyk,
   _Inclusive electron-nucleus cross section models from domain adaptation_,
