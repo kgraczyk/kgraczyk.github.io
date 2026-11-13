@@ -1,5 +1,5 @@
 ---
-title: " 	Theory of elementary particles"
+title: "Theory of elementary particles"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-winter-teaching-1
@@ -8,21 +8,8 @@ date: 2026-10-01
 location: "Wroclaw, poland"
 ---
 
-[Introduction to theory of elementary particles](https://github.com/kgraczyk/TEP-lecture) (30h of lecture and 30h of classes). 
 
-The course consists of:
+A complete set of 14 lectures developed and taught at the University of Wrocław since 2015, covering the theoretical foundations of particle physics, from scattering theory and symmetries to the Standard Model and neutrino physics.
 
-* Intuition, kinematics, classification of particles, etc.
-* S-matrix and cross-section formula, QED Feynman rules
-* Discrete symmetries: C, P, T
-* Lie groups and representation theory
-* Quark model, particles spectrum
-* Parton model
-* QCD
-* Goldstone theorem
-* Gauge theory and spontaneous symmetry breaking – Higgs mechanism
-* Fermi model
-* SU (2) × U (1) symmetry and electroweak interactions
-* Elements of the standard model
-* Neutrino oscillations
+[Lecture website](https://kgraczyk.github.io/TEP-lecture/) | [Zenodo (DOI)](https://doi.org/10.5281/zenodo.24208618)
 
